@@ -1,0 +1,3 @@
+hive_key            	string              	from deserializer   
+sku_id              	string              	from deserializer   
+shop_no             	string              	from deserializer   

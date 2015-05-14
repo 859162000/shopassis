@@ -1,0 +1,15 @@
+sku_id              	string              	None                
+product_id          	string              	None                
+product_name        	string              	None                
+category_3_id       	string              	None                
+category_3_name     	string              	None                
+category_2_id       	string              	None                
+category_2_name     	string              	None                
+category_1_id       	string              	None                
+category_1_name     	string              	None                
+brand_id            	string              	None                
+brand_name          	string              	None                
+list_price          	double              	None                
+goods_model         	string              	None                
+sap_sku_no          	string              	None                
+image_url           	string              	None                
