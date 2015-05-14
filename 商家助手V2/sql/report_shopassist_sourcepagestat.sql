@@ -23,7 +23,7 @@ CREATE TABLE `report_shopassist_sourcepagestat` (
   `shop_id` int(15) DEFAULT NULL COMMENT '店铺ID',
   `visit_date` int(15) DEFAULT NULL COMMENT '访问时间 YYYYMMDD',
   `visit_hour` int(15) DEFAULT NULL COMMENT 'YYYYMMDDHH，如果是天维度，此字段为-1',
-  `data_source` tinyint(1) DEFAULT NULL COMMENT '数据来源 1 web 2 wap 3 app',
+  `data_source` smallint(1) DEFAULT NULL COMMENT '数据来源 1 web 2 wap 3 app',
   `source_ptid` smallint(5) DEFAULT NULL COMMENT '来源页面类型',
   `source_page` varchar(5000) DEFAULT NULL COMMENT '来源页面url',
   `uv` int(15) DEFAULT NULL COMMENT '落地页类型',
@@ -39,3 +39,6 @@ CREATE TABLE `report_shopassist_sourcepagestat` (
   `id` int(15) NOT NULL AUTO_INCREMENT COMMENT '主键',
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COMMENT='按来源页面统计';
+
+
+create index idx_shopdate on report_shopassist_sourcepagestat(shop_id, data_source, visit_date,source_ptid); 
