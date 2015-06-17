@@ -1,0 +1,26 @@
+1、hive表创建语句（test_shopasis库中）
+CREATE  TABLE report_productshop
+(
+  product_id string,
+  shop_no string)
+ROW FORMAT DELIMITED
+  FIELDS TERMINATED BY '\t'
+STORED AS INPUTFORMAT
+  'org.apache.hadoop.mapred.TextInputFormat'
+OUTPUTFORMAT
+  'org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat'
+
+
+2、oracle表数据导入hive表脚本
+source /home/hadoop/.bash_profile
+hadoop fs -rmr  /user/hadoop/PRODUCT_SHOP4SHOPASIS;
+sqoop import --connect jdbc:oracle:thin:@10.58.66.37:31521:bodb2 --username 'bigdata_bo_rep' --password 'eI2YNVCC' \
+--fields-terminated-by '\t' \
+--target-dir /user/hadoop/PRODUCT_SHOP4SHOPASIS \
+--outdir /home/hadoop/mikai \
+-e "select t.product_id,t.shop_no from catb_ogg.gome_product_shop t WHERE t.shop_no IS NOT NULL and \$CONDITIONS" -m 1
+
+hive -e "
+use test_shopasis;
+LOAD DATA INPATH '/user/hadoop/PRODUCT_SHOP4SHOPASIS/part*' OVERWRITE INTO TABLE report_productshop;
+"

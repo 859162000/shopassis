@@ -1,0 +1,10823 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#u0 {
+    position:absolute;
+    left:290px;
+    top:380px;
+    width:1211px;
+    height:1429px;
+    overflow:hidden;
+}
+
+#pd2u0 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1211px;
+    height:1429px;
+    
+}
+
+.u1_normal {
+    background-image: url('../商品效果明细_files/u1_normal.png');
+}
+
+.u1_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1010px;
+    height:960px;
+}
+
+#u1_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1016px;
+    height:966px;
+}
+
+.u2 {
+    position:absolute;
+    left:2px;
+    top:472px;
+    width:1006px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3_normal {
+    background-image: url('../商品效果明细_files/u3_normal.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:0px;
+    top:1px;
+    width:1009px;
+    height:40px;
+}
+
+#u3_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1015px;
+    height:46px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:1005px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../商品效果明细_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:270px;
+    top:1px;
+    width:125px;
+    height:40px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:46px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:121px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../商品效果明细_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:145px;
+    top:1px;
+    width:125px;
+    height:40px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:46px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:121px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../商品效果明细_files/u7_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:20px;
+    top:1px;
+    width:125px;
+    height:40px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:46px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:121px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd1u0 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1211px;
+    height:1429px;
+    
+}
+
+.u11_normal {
+    background-image: url('../商品效果明细_files/u11_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1010px;
+    height:1109px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1016px;
+    height:1115px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:546px;
+    width:1006px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../商品效果明细_files/u3_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:0px;
+    top:1px;
+    width:1009px;
+    height:40px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1015px;
+    height:46px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:1005px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../商品效果明细_files/u7_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:270px;
+    top:1px;
+    width:125px;
+    height:40px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:46px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:121px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../商品效果明细_files/u5_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:145px;
+    top:1px;
+    width:125px;
+    height:40px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:46px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:121px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../商品效果明细_files/u7_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:20px;
+    top:1px;
+    width:125px;
+    height:40px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:46px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:121px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u0 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1211px;
+    height:1429px;
+    
+}
+
+.u21_normal {
+    background-image: url('../商品效果明细_files/u21_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:0px;
+    top:140px;
+    width:1000px;
+    height:960px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1006px;
+    height:966px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:472px;
+    width:996px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../商品效果明细_files/u3_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:-9px;
+    top:100px;
+    width:1009px;
+    height:40px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1015px;
+    height:46px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:1005px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../商品效果明细_files/u25_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:261px;
+    top:100px;
+    width:130px;
+    height:40px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:46px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:126px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../商品效果明细_files/u7_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:136px;
+    top:100px;
+    width:125px;
+    height:40px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:46px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:121px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../商品效果明细_files/u5_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:11px;
+    top:100px;
+    width:125px;
+    height:40px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:46px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:121px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:17px;
+    top:43px;
+    width:113px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u32_normal {
+    background-image: url('../商品效果明细_files/u32_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:11px;
+    top:8px;
+    width:24px;
+    height:26px;
+}
+
+#u32_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:26px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:32px;
+    top:11px;
+    width:180px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35 {
+    position:absolute;
+    left:140px;
+    top:41px;
+    width:186px;
+    height:30px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u36_normal {
+    background-image: url('../商品效果明细_files/u36_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:533px;
+    top:37px;
+    width:75px;
+    height:34px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:40px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u38 {
+    position:absolute;
+    left:11px;
+    top:200px;
+    width:978px;
+    height:482px;
+    overflow:hidden;
+}
+
+#pd0u38 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:978px;
+    height:482px;
+    
+}
+
+#u39 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1113px;
+    height:525px
+}
+
+.u40_normal {
+    background-image: url('../商品效果明细_files/u40_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:84px;
+    height:40px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:46px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:80px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_normal {
+    background-image: url('../商品效果明细_files/u42_normal.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:84px;
+    top:0px;
+    width:198px;
+    height:40px;
+}
+
+#u42_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:204px;
+    height:46px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:194px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../商品效果明细_files/u44_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:282px;
+    top:0px;
+    width:81px;
+    height:40px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:46px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:77px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_normal {
+    background-image: url('../商品效果明细_files/u46_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:363px;
+    top:0px;
+    width:71px;
+    height:40px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:46px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:67px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_normal {
+    background-image: url('../商品效果明细_files/u48_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:434px;
+    top:0px;
+    width:64px;
+    height:40px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:46px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:60px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_normal {
+    background-image: url('../商品效果明细_files/u50_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:498px;
+    top:0px;
+    width:93px;
+    height:40px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:46px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:89px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../商品效果明细_files/u52_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:590px;
+    top:0px;
+    width:70px;
+    height:40px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:46px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:66px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_normal {
+    background-image: url('../商品效果明细_files/u46_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:660px;
+    top:0px;
+    width:71px;
+    height:40px;
+}
+
+#u54_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:46px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:67px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56_normal {
+    background-image: url('../商品效果明细_files/u56_normal.png');
+}
+
+.u56_container {
+    position:absolute;
+    left:731px;
+    top:0px;
+    width:73px;
+    height:40px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:46px;
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:69px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58_normal {
+    background-image: url('../商品效果明细_files/u58_normal.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:804px;
+    top:0px;
+    width:74px;
+    height:40px;
+}
+
+#u58_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:46px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60_normal {
+    background-image: url('../商品效果明细_files/u60_normal.png');
+}
+
+.u60_container {
+    position:absolute;
+    left:878px;
+    top:0px;
+    width:82px;
+    height:40px;
+}
+
+#u60_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:46px;
+}
+
+.u61 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:78px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_normal {
+    background-image: url('../商品效果明细_files/u62_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:960px;
+    top:0px;
+    width:83px;
+    height:40px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:46px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:79px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../商品效果明细_files/u64_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:1042px;
+    top:0px;
+    width:65px;
+    height:40px;
+}
+
+#u64_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:46px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:61px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_normal {
+    background-image: url('../商品效果明细_files/u66_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:84px;
+    height:84px;
+}
+
+#u66_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:90px;
+}
+
+.u67 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:80px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68_normal {
+    background-image: url('../商品效果明细_files/u68_normal.png');
+}
+
+.u68_container {
+    position:absolute;
+    left:84px;
+    top:40px;
+    width:198px;
+    height:84px;
+}
+
+#u68_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:204px;
+    height:90px;
+}
+
+.u69 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:194px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70_normal {
+    background-image: url('../商品效果明细_files/u70_normal.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:282px;
+    top:40px;
+    width:81px;
+    height:84px;
+}
+
+#u70_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:90px;
+}
+
+.u71 {
+    position:absolute;
+    left:2px;
+    top:25px;
+    width:77px;
+    height:34px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_normal {
+    background-image: url('../商品效果明细_files/u72_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:363px;
+    top:40px;
+    width:71px;
+    height:84px;
+}
+
+#u72_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:90px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:67px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74_normal {
+    background-image: url('../商品效果明细_files/u74_normal.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:434px;
+    top:40px;
+    width:64px;
+    height:84px;
+}
+
+#u74_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:90px;
+}
+
+.u75 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:60px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76_normal {
+    background-image: url('../商品效果明细_files/u76_normal.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:498px;
+    top:40px;
+    width:93px;
+    height:84px;
+}
+
+#u76_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:90px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:89px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78_normal {
+    background-image: url('../商品效果明细_files/u78_normal.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:590px;
+    top:40px;
+    width:70px;
+    height:84px;
+}
+
+#u78_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:90px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:66px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../商品效果明细_files/u72_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:660px;
+    top:40px;
+    width:71px;
+    height:84px;
+}
+
+#u80_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:90px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:67px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_normal {
+    background-image: url('../商品效果明细_files/u82_normal.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:731px;
+    top:40px;
+    width:73px;
+    height:84px;
+}
+
+#u82_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:90px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:69px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84_normal {
+    background-image: url('../商品效果明细_files/u84_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:804px;
+    top:40px;
+    width:74px;
+    height:84px;
+}
+
+#u84_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:90px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:70px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_normal {
+    background-image: url('../商品效果明细_files/u86_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:878px;
+    top:40px;
+    width:82px;
+    height:84px;
+}
+
+#u86_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:90px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:78px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88_normal {
+    background-image: url('../商品效果明细_files/u88_normal.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:960px;
+    top:40px;
+    width:83px;
+    height:84px;
+}
+
+#u88_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:90px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:79px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_normal {
+    background-image: url('../商品效果明细_files/u90_normal.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:1042px;
+    top:40px;
+    width:65px;
+    height:84px;
+}
+
+#u90_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:90px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_normal {
+    background-image: url('../商品效果明细_files/u66_normal.png');
+}
+
+.u92_container {
+    position:absolute;
+    left:0px;
+    top:124px;
+    width:84px;
+    height:84px;
+}
+
+#u92_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:90px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:80px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94_normal {
+    background-image: url('../商品效果明细_files/u68_normal.png');
+}
+
+.u94_container {
+    position:absolute;
+    left:84px;
+    top:124px;
+    width:198px;
+    height:84px;
+}
+
+#u94_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:204px;
+    height:90px;
+}
+
+.u95 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:194px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96_normal {
+    background-image: url('../商品效果明细_files/u70_normal.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:282px;
+    top:124px;
+    width:81px;
+    height:84px;
+}
+
+#u96_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:90px;
+}
+
+.u97 {
+    position:absolute;
+    left:2px;
+    top:25px;
+    width:77px;
+    height:34px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98_normal {
+    background-image: url('../商品效果明细_files/u72_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:363px;
+    top:124px;
+    width:71px;
+    height:84px;
+}
+
+#u98_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:90px;
+}
+
+.u99 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:67px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100_normal {
+    background-image: url('../商品效果明细_files/u74_normal.png');
+}
+
+.u100_container {
+    position:absolute;
+    left:434px;
+    top:124px;
+    width:64px;
+    height:84px;
+}
+
+#u100_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:90px;
+}
+
+.u101 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:60px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102_normal {
+    background-image: url('../商品效果明细_files/u76_normal.png');
+}
+
+.u102_container {
+    position:absolute;
+    left:498px;
+    top:124px;
+    width:93px;
+    height:84px;
+}
+
+#u102_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:90px;
+}
+
+.u103 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:89px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104_normal {
+    background-image: url('../商品效果明细_files/u78_normal.png');
+}
+
+.u104_container {
+    position:absolute;
+    left:590px;
+    top:124px;
+    width:70px;
+    height:84px;
+}
+
+#u104_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:90px;
+}
+
+.u105 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:66px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106_normal {
+    background-image: url('../商品效果明细_files/u72_normal.png');
+}
+
+.u106_container {
+    position:absolute;
+    left:660px;
+    top:124px;
+    width:71px;
+    height:84px;
+}
+
+#u106_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:90px;
+}
+
+.u107 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:67px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108_normal {
+    background-image: url('../商品效果明细_files/u82_normal.png');
+}
+
+.u108_container {
+    position:absolute;
+    left:731px;
+    top:124px;
+    width:73px;
+    height:84px;
+}
+
+#u108_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:90px;
+}
+
+.u109 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:69px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110_normal {
+    background-image: url('../商品效果明细_files/u84_normal.png');
+}
+
+.u110_container {
+    position:absolute;
+    left:804px;
+    top:124px;
+    width:74px;
+    height:84px;
+}
+
+#u110_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:90px;
+}
+
+.u111 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:70px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112_normal {
+    background-image: url('../商品效果明细_files/u86_normal.png');
+}
+
+.u112_container {
+    position:absolute;
+    left:878px;
+    top:124px;
+    width:82px;
+    height:84px;
+}
+
+#u112_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:90px;
+}
+
+.u113 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:78px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u114_normal {
+    background-image: url('../商品效果明细_files/u88_normal.png');
+}
+
+.u114_container {
+    position:absolute;
+    left:960px;
+    top:124px;
+    width:83px;
+    height:84px;
+}
+
+#u114_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:90px;
+}
+
+.u115 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:79px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116_normal {
+    background-image: url('../商品效果明细_files/u90_normal.png');
+}
+
+.u116_container {
+    position:absolute;
+    left:1042px;
+    top:124px;
+    width:65px;
+    height:84px;
+}
+
+#u116_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:90px;
+}
+
+.u117 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118_normal {
+    background-image: url('../商品效果明细_files/u66_normal.png');
+}
+
+.u118_container {
+    position:absolute;
+    left:0px;
+    top:208px;
+    width:84px;
+    height:84px;
+}
+
+#u118_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:90px;
+}
+
+.u119 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:80px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u120_normal {
+    background-image: url('../商品效果明细_files/u68_normal.png');
+}
+
+.u120_container {
+    position:absolute;
+    left:84px;
+    top:208px;
+    width:198px;
+    height:84px;
+}
+
+#u120_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:204px;
+    height:90px;
+}
+
+.u121 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:194px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122_normal {
+    background-image: url('../商品效果明细_files/u70_normal.png');
+}
+
+.u122_container {
+    position:absolute;
+    left:282px;
+    top:208px;
+    width:81px;
+    height:84px;
+}
+
+#u122_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:90px;
+}
+
+.u123 {
+    position:absolute;
+    left:2px;
+    top:25px;
+    width:77px;
+    height:34px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124_normal {
+    background-image: url('../商品效果明细_files/u72_normal.png');
+}
+
+.u124_container {
+    position:absolute;
+    left:363px;
+    top:208px;
+    width:71px;
+    height:84px;
+}
+
+#u124_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:90px;
+}
+
+.u125 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:67px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126_normal {
+    background-image: url('../商品效果明细_files/u74_normal.png');
+}
+
+.u126_container {
+    position:absolute;
+    left:434px;
+    top:208px;
+    width:64px;
+    height:84px;
+}
+
+#u126_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:90px;
+}
+
+.u127 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:60px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128_normal {
+    background-image: url('../商品效果明细_files/u76_normal.png');
+}
+
+.u128_container {
+    position:absolute;
+    left:498px;
+    top:208px;
+    width:93px;
+    height:84px;
+}
+
+#u128_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:90px;
+}
+
+.u129 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:89px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130_normal {
+    background-image: url('../商品效果明细_files/u78_normal.png');
+}
+
+.u130_container {
+    position:absolute;
+    left:590px;
+    top:208px;
+    width:70px;
+    height:84px;
+}
+
+#u130_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:90px;
+}
+
+.u131 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:66px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u132_normal {
+    background-image: url('../商品效果明细_files/u72_normal.png');
+}
+
+.u132_container {
+    position:absolute;
+    left:660px;
+    top:208px;
+    width:71px;
+    height:84px;
+}
+
+#u132_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:90px;
+}
+
+.u133 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:67px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u134_normal {
+    background-image: url('../商品效果明细_files/u82_normal.png');
+}
+
+.u134_container {
+    position:absolute;
+    left:731px;
+    top:208px;
+    width:73px;
+    height:84px;
+}
+
+#u134_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:90px;
+}
+
+.u135 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:69px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136_normal {
+    background-image: url('../商品效果明细_files/u84_normal.png');
+}
+
+.u136_container {
+    position:absolute;
+    left:804px;
+    top:208px;
+    width:74px;
+    height:84px;
+}
+
+#u136_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:90px;
+}
+
+.u137 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:70px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u138_normal {
+    background-image: url('../商品效果明细_files/u86_normal.png');
+}
+
+.u138_container {
+    position:absolute;
+    left:878px;
+    top:208px;
+    width:82px;
+    height:84px;
+}
+
+#u138_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:90px;
+}
+
+.u139 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:78px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140_normal {
+    background-image: url('../商品效果明细_files/u88_normal.png');
+}
+
+.u140_container {
+    position:absolute;
+    left:960px;
+    top:208px;
+    width:83px;
+    height:84px;
+}
+
+#u140_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:90px;
+}
+
+.u141 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:79px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142_normal {
+    background-image: url('../商品效果明细_files/u90_normal.png');
+}
+
+.u142_container {
+    position:absolute;
+    left:1042px;
+    top:208px;
+    width:65px;
+    height:84px;
+}
+
+#u142_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:90px;
+}
+
+.u143 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u144_normal {
+    background-image: url('../商品效果明细_files/u66_normal.png');
+}
+
+.u144_container {
+    position:absolute;
+    left:0px;
+    top:292px;
+    width:84px;
+    height:84px;
+}
+
+#u144_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:90px;
+}
+
+.u145 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:80px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146_normal {
+    background-image: url('../商品效果明细_files/u68_normal.png');
+}
+
+.u146_container {
+    position:absolute;
+    left:84px;
+    top:292px;
+    width:198px;
+    height:84px;
+}
+
+#u146_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:204px;
+    height:90px;
+}
+
+.u147 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:194px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148_normal {
+    background-image: url('../商品效果明细_files/u70_normal.png');
+}
+
+.u148_container {
+    position:absolute;
+    left:282px;
+    top:292px;
+    width:81px;
+    height:84px;
+}
+
+#u148_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:90px;
+}
+
+.u149 {
+    position:absolute;
+    left:2px;
+    top:25px;
+    width:77px;
+    height:34px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150_normal {
+    background-image: url('../商品效果明细_files/u72_normal.png');
+}
+
+.u150_container {
+    position:absolute;
+    left:363px;
+    top:292px;
+    width:71px;
+    height:84px;
+}
+
+#u150_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:90px;
+}
+
+.u151 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:67px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152_normal {
+    background-image: url('../商品效果明细_files/u74_normal.png');
+}
+
+.u152_container {
+    position:absolute;
+    left:434px;
+    top:292px;
+    width:64px;
+    height:84px;
+}
+
+#u152_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:90px;
+}
+
+.u153 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:60px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u154_normal {
+    background-image: url('../商品效果明细_files/u76_normal.png');
+}
+
+.u154_container {
+    position:absolute;
+    left:498px;
+    top:292px;
+    width:93px;
+    height:84px;
+}
+
+#u154_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:90px;
+}
+
+.u155 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:89px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u156_normal {
+    background-image: url('../商品效果明细_files/u78_normal.png');
+}
+
+.u156_container {
+    position:absolute;
+    left:590px;
+    top:292px;
+    width:70px;
+    height:84px;
+}
+
+#u156_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:90px;
+}
+
+.u157 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:66px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u158_normal {
+    background-image: url('../商品效果明细_files/u72_normal.png');
+}
+
+.u158_container {
+    position:absolute;
+    left:660px;
+    top:292px;
+    width:71px;
+    height:84px;
+}
+
+#u158_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:90px;
+}
+
+.u159 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:67px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u160_normal {
+    background-image: url('../商品效果明细_files/u82_normal.png');
+}
+
+.u160_container {
+    position:absolute;
+    left:731px;
+    top:292px;
+    width:73px;
+    height:84px;
+}
+
+#u160_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:90px;
+}
+
+.u161 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:69px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u162_normal {
+    background-image: url('../商品效果明细_files/u84_normal.png');
+}
+
+.u162_container {
+    position:absolute;
+    left:804px;
+    top:292px;
+    width:74px;
+    height:84px;
+}
+
+#u162_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:90px;
+}
+
+.u163 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:70px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u164_normal {
+    background-image: url('../商品效果明细_files/u86_normal.png');
+}
+
+.u164_container {
+    position:absolute;
+    left:878px;
+    top:292px;
+    width:82px;
+    height:84px;
+}
+
+#u164_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:90px;
+}
+
+.u165 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:78px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u166_normal {
+    background-image: url('../商品效果明细_files/u88_normal.png');
+}
+
+.u166_container {
+    position:absolute;
+    left:960px;
+    top:292px;
+    width:83px;
+    height:84px;
+}
+
+#u166_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:90px;
+}
+
+.u167 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:79px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u168_normal {
+    background-image: url('../商品效果明细_files/u90_normal.png');
+}
+
+.u168_container {
+    position:absolute;
+    left:1042px;
+    top:292px;
+    width:65px;
+    height:84px;
+}
+
+#u168_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:90px;
+}
+
+.u169 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u170_normal {
+    background-image: url('../商品效果明细_files/u66_normal.png');
+}
+
+.u170_container {
+    position:absolute;
+    left:0px;
+    top:376px;
+    width:84px;
+    height:84px;
+}
+
+#u170_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:90px;
+}
+
+.u171 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:80px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u172_normal {
+    background-image: url('../商品效果明细_files/u68_normal.png');
+}
+
+.u172_container {
+    position:absolute;
+    left:84px;
+    top:376px;
+    width:198px;
+    height:84px;
+}
+
+#u172_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:204px;
+    height:90px;
+}
+
+.u173 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:194px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u174_normal {
+    background-image: url('../商品效果明细_files/u70_normal.png');
+}
+
+.u174_container {
+    position:absolute;
+    left:282px;
+    top:376px;
+    width:81px;
+    height:84px;
+}
+
+#u174_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:90px;
+}
+
+.u175 {
+    position:absolute;
+    left:2px;
+    top:25px;
+    width:77px;
+    height:34px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u176_normal {
+    background-image: url('../商品效果明细_files/u72_normal.png');
+}
+
+.u176_container {
+    position:absolute;
+    left:363px;
+    top:376px;
+    width:71px;
+    height:84px;
+}
+
+#u176_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:90px;
+}
+
+.u177 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:67px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u178_normal {
+    background-image: url('../商品效果明细_files/u74_normal.png');
+}
+
+.u178_container {
+    position:absolute;
+    left:434px;
+    top:376px;
+    width:64px;
+    height:84px;
+}
+
+#u178_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:90px;
+}
+
+.u179 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:60px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u180_normal {
+    background-image: url('../商品效果明细_files/u76_normal.png');
+}
+
+.u180_container {
+    position:absolute;
+    left:498px;
+    top:376px;
+    width:93px;
+    height:84px;
+}
+
+#u180_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:90px;
+}
+
+.u181 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:89px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u182_normal {
+    background-image: url('../商品效果明细_files/u78_normal.png');
+}
+
+.u182_container {
+    position:absolute;
+    left:590px;
+    top:376px;
+    width:70px;
+    height:84px;
+}
+
+#u182_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:90px;
+}
+
+.u183 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:66px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u184_normal {
+    background-image: url('../商品效果明细_files/u72_normal.png');
+}
+
+.u184_container {
+    position:absolute;
+    left:660px;
+    top:376px;
+    width:71px;
+    height:84px;
+}
+
+#u184_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:90px;
+}
+
+.u185 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:67px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u186_normal {
+    background-image: url('../商品效果明细_files/u82_normal.png');
+}
+
+.u186_container {
+    position:absolute;
+    left:731px;
+    top:376px;
+    width:73px;
+    height:84px;
+}
+
+#u186_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:90px;
+}
+
+.u187 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:69px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u188_normal {
+    background-image: url('../商品效果明细_files/u84_normal.png');
+}
+
+.u188_container {
+    position:absolute;
+    left:804px;
+    top:376px;
+    width:74px;
+    height:84px;
+}
+
+#u188_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:90px;
+}
+
+.u189 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:70px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u190_normal {
+    background-image: url('../商品效果明细_files/u86_normal.png');
+}
+
+.u190_container {
+    position:absolute;
+    left:878px;
+    top:376px;
+    width:82px;
+    height:84px;
+}
+
+#u190_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:90px;
+}
+
+.u191 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:78px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u192_normal {
+    background-image: url('../商品效果明细_files/u88_normal.png');
+}
+
+.u192_container {
+    position:absolute;
+    left:960px;
+    top:376px;
+    width:83px;
+    height:84px;
+}
+
+#u192_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:90px;
+}
+
+.u193 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:79px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u194_normal {
+    background-image: url('../商品效果明细_files/u90_normal.png');
+}
+
+.u194_container {
+    position:absolute;
+    left:1042px;
+    top:376px;
+    width:65px;
+    height:84px;
+}
+
+#u194_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:90px;
+}
+
+.u195 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u196_normal {
+    background-image: url('../商品效果明细_files/u196_normal.png');
+}
+
+.u196_container {
+    position:absolute;
+    left:0px;
+    top:460px;
+    width:84px;
+    height:30px;
+}
+
+#u196_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:36px;
+}
+
+.u197 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:80px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u198_normal {
+    background-image: url('../商品效果明细_files/u198_normal.png');
+}
+
+.u198_container {
+    position:absolute;
+    left:84px;
+    top:460px;
+    width:198px;
+    height:30px;
+}
+
+#u198_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:204px;
+    height:36px;
+}
+
+.u199 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:194px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u200_normal {
+    background-image: url('../商品效果明细_files/u200_normal.png');
+}
+
+.u200_container {
+    position:absolute;
+    left:282px;
+    top:460px;
+    width:81px;
+    height:30px;
+}
+
+#u200_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:36px;
+}
+
+.u201 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u202_normal {
+    background-image: url('../商品效果明细_files/u202_normal.png');
+}
+
+.u202_container {
+    position:absolute;
+    left:363px;
+    top:460px;
+    width:71px;
+    height:30px;
+}
+
+#u202_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:36px;
+}
+
+.u203 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:67px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u204_normal {
+    background-image: url('../商品效果明细_files/u204_normal.png');
+}
+
+.u204_container {
+    position:absolute;
+    left:434px;
+    top:460px;
+    width:64px;
+    height:30px;
+}
+
+#u204_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:36px;
+}
+
+.u205 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u206_normal {
+    background-image: url('../商品效果明细_files/u206_normal.png');
+}
+
+.u206_container {
+    position:absolute;
+    left:498px;
+    top:460px;
+    width:93px;
+    height:30px;
+}
+
+#u206_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:36px;
+}
+
+.u207 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:89px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u208_normal {
+    background-image: url('../商品效果明细_files/u208_normal.png');
+}
+
+.u208_container {
+    position:absolute;
+    left:590px;
+    top:460px;
+    width:70px;
+    height:30px;
+}
+
+#u208_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:36px;
+}
+
+.u209 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u210_normal {
+    background-image: url('../商品效果明细_files/u202_normal.png');
+}
+
+.u210_container {
+    position:absolute;
+    left:660px;
+    top:460px;
+    width:71px;
+    height:30px;
+}
+
+#u210_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:36px;
+}
+
+.u211 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:67px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u212_normal {
+    background-image: url('../商品效果明细_files/u212_normal.png');
+}
+
+.u212_container {
+    position:absolute;
+    left:731px;
+    top:460px;
+    width:73px;
+    height:30px;
+}
+
+#u212_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:36px;
+}
+
+.u213 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:69px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u214_normal {
+    background-image: url('../商品效果明细_files/u214_normal.png');
+}
+
+.u214_container {
+    position:absolute;
+    left:804px;
+    top:460px;
+    width:74px;
+    height:30px;
+}
+
+#u214_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:36px;
+}
+
+.u215 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u216_normal {
+    background-image: url('../商品效果明细_files/u216_normal.png');
+}
+
+.u216_container {
+    position:absolute;
+    left:878px;
+    top:460px;
+    width:82px;
+    height:30px;
+}
+
+#u216_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:36px;
+}
+
+.u217 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u218_normal {
+    background-image: url('../商品效果明细_files/u218_normal.png');
+}
+
+.u218_container {
+    position:absolute;
+    left:960px;
+    top:460px;
+    width:83px;
+    height:30px;
+}
+
+#u218_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:36px;
+}
+
+.u219 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u220_normal {
+    background-image: url('../商品效果明细_files/u220_normal.png');
+}
+
+.u220_container {
+    position:absolute;
+    left:1042px;
+    top:460px;
+    width:65px;
+    height:30px;
+}
+
+#u220_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:36px;
+}
+
+.u221 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u222_normal {
+    background-image: url('../商品效果明细_files/u196_normal.png');
+}
+
+.u222_container {
+    position:absolute;
+    left:0px;
+    top:490px;
+    width:84px;
+    height:30px;
+}
+
+#u222_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:36px;
+}
+
+.u223 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:80px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u224_normal {
+    background-image: url('../商品效果明细_files/u198_normal.png');
+}
+
+.u224_container {
+    position:absolute;
+    left:84px;
+    top:490px;
+    width:198px;
+    height:30px;
+}
+
+#u224_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:204px;
+    height:36px;
+}
+
+.u225 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:194px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u226_normal {
+    background-image: url('../商品效果明细_files/u200_normal.png');
+}
+
+.u226_container {
+    position:absolute;
+    left:282px;
+    top:490px;
+    width:81px;
+    height:30px;
+}
+
+#u226_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:36px;
+}
+
+.u227 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u228_normal {
+    background-image: url('../商品效果明细_files/u202_normal.png');
+}
+
+.u228_container {
+    position:absolute;
+    left:363px;
+    top:490px;
+    width:71px;
+    height:30px;
+}
+
+#u228_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:36px;
+}
+
+.u229 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:67px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u230_normal {
+    background-image: url('../商品效果明细_files/u204_normal.png');
+}
+
+.u230_container {
+    position:absolute;
+    left:434px;
+    top:490px;
+    width:64px;
+    height:30px;
+}
+
+#u230_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:36px;
+}
+
+.u231 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u232_normal {
+    background-image: url('../商品效果明细_files/u206_normal.png');
+}
+
+.u232_container {
+    position:absolute;
+    left:498px;
+    top:490px;
+    width:93px;
+    height:30px;
+}
+
+#u232_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:36px;
+}
+
+.u233 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:89px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u234_normal {
+    background-image: url('../商品效果明细_files/u208_normal.png');
+}
+
+.u234_container {
+    position:absolute;
+    left:590px;
+    top:490px;
+    width:70px;
+    height:30px;
+}
+
+#u234_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:36px;
+}
+
+.u235 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u236_normal {
+    background-image: url('../商品效果明细_files/u202_normal.png');
+}
+
+.u236_container {
+    position:absolute;
+    left:660px;
+    top:490px;
+    width:71px;
+    height:30px;
+}
+
+#u236_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:36px;
+}
+
+.u237 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:67px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u238_normal {
+    background-image: url('../商品效果明细_files/u212_normal.png');
+}
+
+.u238_container {
+    position:absolute;
+    left:731px;
+    top:490px;
+    width:73px;
+    height:30px;
+}
+
+#u238_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:36px;
+}
+
+.u239 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:69px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u240_normal {
+    background-image: url('../商品效果明细_files/u214_normal.png');
+}
+
+.u240_container {
+    position:absolute;
+    left:804px;
+    top:490px;
+    width:74px;
+    height:30px;
+}
+
+#u240_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:36px;
+}
+
+.u241 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u242_normal {
+    background-image: url('../商品效果明细_files/u216_normal.png');
+}
+
+.u242_container {
+    position:absolute;
+    left:878px;
+    top:490px;
+    width:82px;
+    height:30px;
+}
+
+#u242_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:36px;
+}
+
+.u243 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u244_normal {
+    background-image: url('../商品效果明细_files/u218_normal.png');
+}
+
+.u244_container {
+    position:absolute;
+    left:960px;
+    top:490px;
+    width:83px;
+    height:30px;
+}
+
+#u244_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:36px;
+}
+
+.u245 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u246_normal {
+    background-image: url('../商品效果明细_files/u220_normal.png');
+}
+
+.u246_container {
+    position:absolute;
+    left:1042px;
+    top:490px;
+    width:65px;
+    height:30px;
+}
+
+#u246_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:36px;
+}
+
+.u247 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u248_normal {
+    background-image: url('../商品效果明细_files/u248_normal.png');
+}
+
+.u248_container {
+    position:absolute;
+    left:1045px;
+    top:60px;
+    width:49px;
+    height:20px;
+}
+
+#u248_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:55px;
+    height:26px;
+}
+
+.u249 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:45px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u250_normal {
+    background-image: url('../商品效果明细_files/u248_normal.png');
+}
+
+.u250_container {
+    position:absolute;
+    left:1045px;
+    top:84px;
+    width:49px;
+    height:20px;
+}
+
+#u250_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:55px;
+    height:26px;
+}
+
+.u251 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:45px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u252_normal {
+    background-image: url('../商品效果明细_files/u252_normal.png');
+}
+
+.u252_container {
+    position:absolute;
+    left:92px;
+    top:44px;
+    width:70px;
+    height:75px;
+}
+
+#u252_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:70px;
+    height:75px;
+}
+
+.u253 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u254 {
+    position:absolute;
+    left:167px;
+    top:46px;
+    width:110px;
+    height:51px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u255 {
+    position:absolute;
+    left:167px;
+    top:102px;
+    width:102px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u256_normal {
+    background-image: url('../商品效果明细_files/u256_normal.png');
+}
+
+.u256_container {
+    position:absolute;
+    left:34px;
+    top:100px;
+    width:15px;
+    height:15px;
+}
+
+#u256_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:21px;
+    height:21px;
+}
+
+.u257 {
+    position:absolute;
+    left:2px;
+    top:-2px;
+    width:11px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u258_normal {
+    background-image: url('../商品效果明细_files/u248_normal.png');
+}
+
+.u258_container {
+    position:absolute;
+    left:1045px;
+    top:146px;
+    width:49px;
+    height:20px;
+}
+
+#u258_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:55px;
+    height:26px;
+}
+
+.u259 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:45px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u260_normal {
+    background-image: url('../商品效果明细_files/u248_normal.png');
+}
+
+.u260_container {
+    position:absolute;
+    left:1045px;
+    top:170px;
+    width:49px;
+    height:20px;
+}
+
+#u260_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:55px;
+    height:26px;
+}
+
+.u261 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:45px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u262_normal {
+    background-image: url('../商品效果明细_files/u252_normal.png');
+}
+
+.u262_container {
+    position:absolute;
+    left:92px;
+    top:130px;
+    width:70px;
+    height:75px;
+}
+
+#u262_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:70px;
+    height:75px;
+}
+
+.u263 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u264 {
+    position:absolute;
+    left:167px;
+    top:132px;
+    width:110px;
+    height:51px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u265 {
+    position:absolute;
+    left:167px;
+    top:188px;
+    width:102px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u266_normal {
+    background-image: url('../商品效果明细_files/u256_normal.png');
+}
+
+.u266_container {
+    position:absolute;
+    left:34px;
+    top:186px;
+    width:15px;
+    height:15px;
+}
+
+#u266_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:21px;
+    height:21px;
+}
+
+.u267 {
+    position:absolute;
+    left:2px;
+    top:-2px;
+    width:11px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u268_normal {
+    background-image: url('../商品效果明细_files/u248_normal.png');
+}
+
+.u268_container {
+    position:absolute;
+    left:1045px;
+    top:229px;
+    width:49px;
+    height:20px;
+}
+
+#u268_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:55px;
+    height:26px;
+}
+
+.u269 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:45px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u270_normal {
+    background-image: url('../商品效果明细_files/u248_normal.png');
+}
+
+.u270_container {
+    position:absolute;
+    left:1045px;
+    top:253px;
+    width:49px;
+    height:20px;
+}
+
+#u270_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:55px;
+    height:26px;
+}
+
+.u271 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:45px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u272_normal {
+    background-image: url('../商品效果明细_files/u252_normal.png');
+}
+
+.u272_container {
+    position:absolute;
+    left:92px;
+    top:213px;
+    width:70px;
+    height:75px;
+}
+
+#u272_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:70px;
+    height:75px;
+}
+
+.u273 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u274 {
+    position:absolute;
+    left:167px;
+    top:215px;
+    width:110px;
+    height:51px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u275 {
+    position:absolute;
+    left:167px;
+    top:271px;
+    width:102px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u276_normal {
+    background-image: url('../商品效果明细_files/u256_normal.png');
+}
+
+.u276_container {
+    position:absolute;
+    left:34px;
+    top:269px;
+    width:15px;
+    height:15px;
+}
+
+#u276_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:21px;
+    height:21px;
+}
+
+.u277 {
+    position:absolute;
+    left:2px;
+    top:-2px;
+    width:11px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u278_normal {
+    background-image: url('../商品效果明细_files/u252_normal.png');
+}
+
+.u278_container {
+    position:absolute;
+    left:92px;
+    top:298px;
+    width:70px;
+    height:75px;
+}
+
+#u278_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:70px;
+    height:75px;
+}
+
+.u279 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u280 {
+    position:absolute;
+    left:167px;
+    top:300px;
+    width:110px;
+    height:34px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u281 {
+    position:absolute;
+    left:167px;
+    top:356px;
+    width:102px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u282_normal {
+    background-image: url('../商品效果明细_files/u248_normal.png');
+}
+
+.u282_container {
+    position:absolute;
+    left:1045px;
+    top:326px;
+    width:49px;
+    height:20px;
+}
+
+#u282_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:55px;
+    height:26px;
+}
+
+.u283 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:45px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u284_normal {
+    background-image: url('../商品效果明细_files/u252_normal.png');
+}
+
+.u284_container {
+    position:absolute;
+    left:92px;
+    top:381px;
+    width:70px;
+    height:75px;
+}
+
+#u284_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:70px;
+    height:75px;
+}
+
+.u285 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u286 {
+    position:absolute;
+    left:167px;
+    top:383px;
+    width:110px;
+    height:34px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u287 {
+    position:absolute;
+    left:167px;
+    top:439px;
+    width:102px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u288_normal {
+    background-image: url('../商品效果明细_files/u248_normal.png');
+}
+
+.u288_container {
+    position:absolute;
+    left:1045px;
+    top:408px;
+    width:49px;
+    height:20px;
+}
+
+#u288_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:55px;
+    height:26px;
+}
+
+.u289 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:45px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u290 {
+    position:absolute;
+    left:336px;
+    top:41px;
+    width:187px;
+    height:30px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u291_normal {
+    background-image: url('../商品效果明细_files/u291_normal.png');
+}
+
+.u291_container {
+    position:absolute;
+    left:918px;
+    top:108px;
+    width:60px;
+    height:25px;
+}
+
+#u291_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:31px;
+}
+
+.u292 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u293_normal {
+    background-image: url('../商品效果明细_files/u293_normal.png');
+}
+
+.u293_container {
+    position:absolute;
+    left:618px;
+    top:44px;
+    width:100px;
+    height:25px;
+}
+
+#u293_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u294 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u295_normal {
+    background-image: url('../商品效果明细_files/u295_normal.png');
+}
+
+.u295_container {
+    position:absolute;
+    left:8px;
+    top:160px;
+    width:991px;
+    height:30px;
+}
+
+#u295_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:997px;
+    height:36px;
+}
+
+.u296 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:987px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u297 {
+    position:absolute;
+    left:10px;
+    top:164px;
+    width:75px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u299 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:104px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u301 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:72px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u303 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u305 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:72px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u307 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:72px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u309 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:72px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u311 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:112px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u313 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:57px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u315 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u316 {
+    position:absolute;
+    left:294px;
+    top:200px;
+    width:695px;
+    height:490px;
+    overflow:hidden;
+}
+
+#pd0u316 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:695px;
+    height:490px;
+    overflow:auto;
+    -webkit-overflow-scrolling: touch;
+    overflow-y:hidden;
+    -ms-overflow-y:hidden;
+}
+
+#u317 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:827px;
+    height:525px
+}
+
+.u318_normal {
+    background-image: url('../商品效果明细_files/u44_normal.png');
+}
+
+.u318_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:81px;
+    height:40px;
+}
+
+#u318_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:46px;
+}
+
+.u319 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:77px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u320_normal {
+    background-image: url('../商品效果明细_files/u46_normal.png');
+}
+
+.u320_container {
+    position:absolute;
+    left:81px;
+    top:0px;
+    width:71px;
+    height:40px;
+}
+
+#u320_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:46px;
+}
+
+.u321 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:67px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u322_normal {
+    background-image: url('../商品效果明细_files/u48_normal.png');
+}
+
+.u322_container {
+    position:absolute;
+    left:152px;
+    top:0px;
+    width:64px;
+    height:40px;
+}
+
+#u322_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:46px;
+}
+
+.u323 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:60px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u324_normal {
+    background-image: url('../商品效果明细_files/u50_normal.png');
+}
+
+.u324_container {
+    position:absolute;
+    left:216px;
+    top:0px;
+    width:93px;
+    height:40px;
+}
+
+#u324_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:46px;
+}
+
+.u325 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:89px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u326_normal {
+    background-image: url('../商品效果明细_files/u52_normal.png');
+}
+
+.u326_container {
+    position:absolute;
+    left:308px;
+    top:0px;
+    width:70px;
+    height:40px;
+}
+
+#u326_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:46px;
+}
+
+.u327 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:66px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u328_normal {
+    background-image: url('../商品效果明细_files/u46_normal.png');
+}
+
+.u328_container {
+    position:absolute;
+    left:378px;
+    top:0px;
+    width:71px;
+    height:40px;
+}
+
+#u328_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:46px;
+}
+
+.u329 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:67px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u330_normal {
+    background-image: url('../商品效果明细_files/u56_normal.png');
+}
+
+.u330_container {
+    position:absolute;
+    left:449px;
+    top:0px;
+    width:73px;
+    height:40px;
+}
+
+#u330_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:46px;
+}
+
+.u331 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:69px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u332_normal {
+    background-image: url('../商品效果明细_files/u58_normal.png');
+}
+
+.u332_container {
+    position:absolute;
+    left:522px;
+    top:0px;
+    width:74px;
+    height:40px;
+}
+
+#u332_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:46px;
+}
+
+.u333 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u334_normal {
+    background-image: url('../商品效果明细_files/u60_normal.png');
+}
+
+.u334_container {
+    position:absolute;
+    left:596px;
+    top:0px;
+    width:82px;
+    height:40px;
+}
+
+#u334_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:46px;
+}
+
+.u335 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:78px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u336_normal {
+    background-image: url('../商品效果明细_files/u336_normal.png');
+}
+
+.u336_container {
+    position:absolute;
+    left:678px;
+    top:0px;
+    width:79px;
+    height:40px;
+}
+
+#u336_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:85px;
+    height:46px;
+}
+
+.u337 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:75px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u338_normal {
+    background-image: url('../商品效果明细_files/u64_normal.png');
+}
+
+.u338_container {
+    position:absolute;
+    left:756px;
+    top:0px;
+    width:65px;
+    height:40px;
+}
+
+#u338_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:46px;
+}
+
+.u339 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:61px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u340_normal {
+    background-image: url('../商品效果明细_files/u70_normal.png');
+}
+
+.u340_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:81px;
+    height:84px;
+}
+
+#u340_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:90px;
+}
+
+.u341 {
+    position:absolute;
+    left:2px;
+    top:25px;
+    width:77px;
+    height:34px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u342_normal {
+    background-image: url('../商品效果明细_files/u72_normal.png');
+}
+
+.u342_container {
+    position:absolute;
+    left:81px;
+    top:40px;
+    width:71px;
+    height:84px;
+}
+
+#u342_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:90px;
+}
+
+.u343 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:67px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u344_normal {
+    background-image: url('../商品效果明细_files/u74_normal.png');
+}
+
+.u344_container {
+    position:absolute;
+    left:152px;
+    top:40px;
+    width:64px;
+    height:84px;
+}
+
+#u344_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:90px;
+}
+
+.u345 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:60px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u346_normal {
+    background-image: url('../商品效果明细_files/u76_normal.png');
+}
+
+.u346_container {
+    position:absolute;
+    left:216px;
+    top:40px;
+    width:93px;
+    height:84px;
+}
+
+#u346_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:90px;
+}
+
+.u347 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:89px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u348_normal {
+    background-image: url('../商品效果明细_files/u78_normal.png');
+}
+
+.u348_container {
+    position:absolute;
+    left:308px;
+    top:40px;
+    width:70px;
+    height:84px;
+}
+
+#u348_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:90px;
+}
+
+.u349 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:66px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u350_normal {
+    background-image: url('../商品效果明细_files/u72_normal.png');
+}
+
+.u350_container {
+    position:absolute;
+    left:378px;
+    top:40px;
+    width:71px;
+    height:84px;
+}
+
+#u350_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:90px;
+}
+
+.u351 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:67px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u352_normal {
+    background-image: url('../商品效果明细_files/u82_normal.png');
+}
+
+.u352_container {
+    position:absolute;
+    left:449px;
+    top:40px;
+    width:73px;
+    height:84px;
+}
+
+#u352_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:90px;
+}
+
+.u353 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:69px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u354_normal {
+    background-image: url('../商品效果明细_files/u84_normal.png');
+}
+
+.u354_container {
+    position:absolute;
+    left:522px;
+    top:40px;
+    width:74px;
+    height:84px;
+}
+
+#u354_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:90px;
+}
+
+.u355 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:70px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u356_normal {
+    background-image: url('../商品效果明细_files/u86_normal.png');
+}
+
+.u356_container {
+    position:absolute;
+    left:596px;
+    top:40px;
+    width:82px;
+    height:84px;
+}
+
+#u356_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:90px;
+}
+
+.u357 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:78px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u358_normal {
+    background-image: url('../商品效果明细_files/u358_normal.png');
+}
+
+.u358_container {
+    position:absolute;
+    left:678px;
+    top:40px;
+    width:79px;
+    height:84px;
+}
+
+#u358_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:85px;
+    height:90px;
+}
+
+.u359 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:75px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u360_normal {
+    background-image: url('../商品效果明细_files/u90_normal.png');
+}
+
+.u360_container {
+    position:absolute;
+    left:756px;
+    top:40px;
+    width:65px;
+    height:84px;
+}
+
+#u360_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:90px;
+}
+
+.u361 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u362_normal {
+    background-image: url('../商品效果明细_files/u70_normal.png');
+}
+
+.u362_container {
+    position:absolute;
+    left:0px;
+    top:124px;
+    width:81px;
+    height:84px;
+}
+
+#u362_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:90px;
+}
+
+.u363 {
+    position:absolute;
+    left:2px;
+    top:25px;
+    width:77px;
+    height:34px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u364_normal {
+    background-image: url('../商品效果明细_files/u72_normal.png');
+}
+
+.u364_container {
+    position:absolute;
+    left:81px;
+    top:124px;
+    width:71px;
+    height:84px;
+}
+
+#u364_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:90px;
+}
+
+.u365 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:67px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u366_normal {
+    background-image: url('../商品效果明细_files/u74_normal.png');
+}
+
+.u366_container {
+    position:absolute;
+    left:152px;
+    top:124px;
+    width:64px;
+    height:84px;
+}
+
+#u366_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:90px;
+}
+
+.u367 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:60px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u368_normal {
+    background-image: url('../商品效果明细_files/u76_normal.png');
+}
+
+.u368_container {
+    position:absolute;
+    left:216px;
+    top:124px;
+    width:93px;
+    height:84px;
+}
+
+#u368_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:90px;
+}
+
+.u369 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:89px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u370_normal {
+    background-image: url('../商品效果明细_files/u78_normal.png');
+}
+
+.u370_container {
+    position:absolute;
+    left:308px;
+    top:124px;
+    width:70px;
+    height:84px;
+}
+
+#u370_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:90px;
+}
+
+.u371 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:66px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u372_normal {
+    background-image: url('../商品效果明细_files/u72_normal.png');
+}
+
+.u372_container {
+    position:absolute;
+    left:378px;
+    top:124px;
+    width:71px;
+    height:84px;
+}
+
+#u372_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:90px;
+}
+
+.u373 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:67px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u374_normal {
+    background-image: url('../商品效果明细_files/u82_normal.png');
+}
+
+.u374_container {
+    position:absolute;
+    left:449px;
+    top:124px;
+    width:73px;
+    height:84px;
+}
+
+#u374_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:90px;
+}
+
+.u375 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:69px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u376_normal {
+    background-image: url('../商品效果明细_files/u84_normal.png');
+}
+
+.u376_container {
+    position:absolute;
+    left:522px;
+    top:124px;
+    width:74px;
+    height:84px;
+}
+
+#u376_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:90px;
+}
+
+.u377 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:70px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u378_normal {
+    background-image: url('../商品效果明细_files/u86_normal.png');
+}
+
+.u378_container {
+    position:absolute;
+    left:596px;
+    top:124px;
+    width:82px;
+    height:84px;
+}
+
+#u378_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:90px;
+}
+
+.u379 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:78px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u380_normal {
+    background-image: url('../商品效果明细_files/u358_normal.png');
+}
+
+.u380_container {
+    position:absolute;
+    left:678px;
+    top:124px;
+    width:79px;
+    height:84px;
+}
+
+#u380_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:85px;
+    height:90px;
+}
+
+.u381 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:75px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u382_normal {
+    background-image: url('../商品效果明细_files/u90_normal.png');
+}
+
+.u382_container {
+    position:absolute;
+    left:756px;
+    top:124px;
+    width:65px;
+    height:84px;
+}
+
+#u382_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:90px;
+}
+
+.u383 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u384_normal {
+    background-image: url('../商品效果明细_files/u70_normal.png');
+}
+
+.u384_container {
+    position:absolute;
+    left:0px;
+    top:208px;
+    width:81px;
+    height:84px;
+}
+
+#u384_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:90px;
+}
+
+.u385 {
+    position:absolute;
+    left:2px;
+    top:25px;
+    width:77px;
+    height:34px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u386_normal {
+    background-image: url('../商品效果明细_files/u72_normal.png');
+}
+
+.u386_container {
+    position:absolute;
+    left:81px;
+    top:208px;
+    width:71px;
+    height:84px;
+}
+
+#u386_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:90px;
+}
+
+.u387 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:67px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u388_normal {
+    background-image: url('../商品效果明细_files/u74_normal.png');
+}
+
+.u388_container {
+    position:absolute;
+    left:152px;
+    top:208px;
+    width:64px;
+    height:84px;
+}
+
+#u388_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:90px;
+}
+
+.u389 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:60px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u390_normal {
+    background-image: url('../商品效果明细_files/u76_normal.png');
+}
+
+.u390_container {
+    position:absolute;
+    left:216px;
+    top:208px;
+    width:93px;
+    height:84px;
+}
+
+#u390_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:90px;
+}
+
+.u391 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:89px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u392_normal {
+    background-image: url('../商品效果明细_files/u78_normal.png');
+}
+
+.u392_container {
+    position:absolute;
+    left:308px;
+    top:208px;
+    width:70px;
+    height:84px;
+}
+
+#u392_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:90px;
+}
+
+.u393 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:66px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u394_normal {
+    background-image: url('../商品效果明细_files/u72_normal.png');
+}
+
+.u394_container {
+    position:absolute;
+    left:378px;
+    top:208px;
+    width:71px;
+    height:84px;
+}
+
+#u394_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:90px;
+}
+
+.u395 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:67px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u396_normal {
+    background-image: url('../商品效果明细_files/u82_normal.png');
+}
+
+.u396_container {
+    position:absolute;
+    left:449px;
+    top:208px;
+    width:73px;
+    height:84px;
+}
+
+#u396_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:90px;
+}
+
+.u397 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:69px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u398_normal {
+    background-image: url('../商品效果明细_files/u84_normal.png');
+}
+
+.u398_container {
+    position:absolute;
+    left:522px;
+    top:208px;
+    width:74px;
+    height:84px;
+}
+
+#u398_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:90px;
+}
+
+.u399 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:70px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u400_normal {
+    background-image: url('../商品效果明细_files/u86_normal.png');
+}
+
+.u400_container {
+    position:absolute;
+    left:596px;
+    top:208px;
+    width:82px;
+    height:84px;
+}
+
+#u400_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:90px;
+}
+
+.u401 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:78px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u402_normal {
+    background-image: url('../商品效果明细_files/u358_normal.png');
+}
+
+.u402_container {
+    position:absolute;
+    left:678px;
+    top:208px;
+    width:79px;
+    height:84px;
+}
+
+#u402_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:85px;
+    height:90px;
+}
+
+.u403 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:75px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u404_normal {
+    background-image: url('../商品效果明细_files/u90_normal.png');
+}
+
+.u404_container {
+    position:absolute;
+    left:756px;
+    top:208px;
+    width:65px;
+    height:84px;
+}
+
+#u404_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:90px;
+}
+
+.u405 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u406_normal {
+    background-image: url('../商品效果明细_files/u70_normal.png');
+}
+
+.u406_container {
+    position:absolute;
+    left:0px;
+    top:292px;
+    width:81px;
+    height:84px;
+}
+
+#u406_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:90px;
+}
+
+.u407 {
+    position:absolute;
+    left:2px;
+    top:25px;
+    width:77px;
+    height:34px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u408_normal {
+    background-image: url('../商品效果明细_files/u72_normal.png');
+}
+
+.u408_container {
+    position:absolute;
+    left:81px;
+    top:292px;
+    width:71px;
+    height:84px;
+}
+
+#u408_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:90px;
+}
+
+.u409 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:67px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u410_normal {
+    background-image: url('../商品效果明细_files/u74_normal.png');
+}
+
+.u410_container {
+    position:absolute;
+    left:152px;
+    top:292px;
+    width:64px;
+    height:84px;
+}
+
+#u410_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:90px;
+}
+
+.u411 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:60px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u412_normal {
+    background-image: url('../商品效果明细_files/u76_normal.png');
+}
+
+.u412_container {
+    position:absolute;
+    left:216px;
+    top:292px;
+    width:93px;
+    height:84px;
+}
+
+#u412_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:90px;
+}
+
+.u413 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:89px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u414_normal {
+    background-image: url('../商品效果明细_files/u78_normal.png');
+}
+
+.u414_container {
+    position:absolute;
+    left:308px;
+    top:292px;
+    width:70px;
+    height:84px;
+}
+
+#u414_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:90px;
+}
+
+.u415 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:66px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u416_normal {
+    background-image: url('../商品效果明细_files/u72_normal.png');
+}
+
+.u416_container {
+    position:absolute;
+    left:378px;
+    top:292px;
+    width:71px;
+    height:84px;
+}
+
+#u416_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:90px;
+}
+
+.u417 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:67px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u418_normal {
+    background-image: url('../商品效果明细_files/u82_normal.png');
+}
+
+.u418_container {
+    position:absolute;
+    left:449px;
+    top:292px;
+    width:73px;
+    height:84px;
+}
+
+#u418_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:90px;
+}
+
+.u419 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:69px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u420_normal {
+    background-image: url('../商品效果明细_files/u84_normal.png');
+}
+
+.u420_container {
+    position:absolute;
+    left:522px;
+    top:292px;
+    width:74px;
+    height:84px;
+}
+
+#u420_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:90px;
+}
+
+.u421 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:70px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u422_normal {
+    background-image: url('../商品效果明细_files/u86_normal.png');
+}
+
+.u422_container {
+    position:absolute;
+    left:596px;
+    top:292px;
+    width:82px;
+    height:84px;
+}
+
+#u422_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:90px;
+}
+
+.u423 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:78px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u424_normal {
+    background-image: url('../商品效果明细_files/u358_normal.png');
+}
+
+.u424_container {
+    position:absolute;
+    left:678px;
+    top:292px;
+    width:79px;
+    height:84px;
+}
+
+#u424_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:85px;
+    height:90px;
+}
+
+.u425 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:75px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u426_normal {
+    background-image: url('../商品效果明细_files/u90_normal.png');
+}
+
+.u426_container {
+    position:absolute;
+    left:756px;
+    top:292px;
+    width:65px;
+    height:84px;
+}
+
+#u426_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:90px;
+}
+
+.u427 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u428_normal {
+    background-image: url('../商品效果明细_files/u70_normal.png');
+}
+
+.u428_container {
+    position:absolute;
+    left:0px;
+    top:376px;
+    width:81px;
+    height:84px;
+}
+
+#u428_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:90px;
+}
+
+.u429 {
+    position:absolute;
+    left:2px;
+    top:25px;
+    width:77px;
+    height:34px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u430_normal {
+    background-image: url('../商品效果明细_files/u72_normal.png');
+}
+
+.u430_container {
+    position:absolute;
+    left:81px;
+    top:376px;
+    width:71px;
+    height:84px;
+}
+
+#u430_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:90px;
+}
+
+.u431 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:67px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u432_normal {
+    background-image: url('../商品效果明细_files/u74_normal.png');
+}
+
+.u432_container {
+    position:absolute;
+    left:152px;
+    top:376px;
+    width:64px;
+    height:84px;
+}
+
+#u432_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:90px;
+}
+
+.u433 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:60px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u434_normal {
+    background-image: url('../商品效果明细_files/u76_normal.png');
+}
+
+.u434_container {
+    position:absolute;
+    left:216px;
+    top:376px;
+    width:93px;
+    height:84px;
+}
+
+#u434_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:90px;
+}
+
+.u435 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:89px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u436_normal {
+    background-image: url('../商品效果明细_files/u78_normal.png');
+}
+
+.u436_container {
+    position:absolute;
+    left:308px;
+    top:376px;
+    width:70px;
+    height:84px;
+}
+
+#u436_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:90px;
+}
+
+.u437 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:66px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u438_normal {
+    background-image: url('../商品效果明细_files/u72_normal.png');
+}
+
+.u438_container {
+    position:absolute;
+    left:378px;
+    top:376px;
+    width:71px;
+    height:84px;
+}
+
+#u438_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:90px;
+}
+
+.u439 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:67px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u440_normal {
+    background-image: url('../商品效果明细_files/u82_normal.png');
+}
+
+.u440_container {
+    position:absolute;
+    left:449px;
+    top:376px;
+    width:73px;
+    height:84px;
+}
+
+#u440_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:90px;
+}
+
+.u441 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:69px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u442_normal {
+    background-image: url('../商品效果明细_files/u84_normal.png');
+}
+
+.u442_container {
+    position:absolute;
+    left:522px;
+    top:376px;
+    width:74px;
+    height:84px;
+}
+
+#u442_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:90px;
+}
+
+.u443 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:70px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u444_normal {
+    background-image: url('../商品效果明细_files/u86_normal.png');
+}
+
+.u444_container {
+    position:absolute;
+    left:596px;
+    top:376px;
+    width:82px;
+    height:84px;
+}
+
+#u444_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:90px;
+}
+
+.u445 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:78px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u446_normal {
+    background-image: url('../商品效果明细_files/u358_normal.png');
+}
+
+.u446_container {
+    position:absolute;
+    left:678px;
+    top:376px;
+    width:79px;
+    height:84px;
+}
+
+#u446_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:85px;
+    height:90px;
+}
+
+.u447 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:75px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u448_normal {
+    background-image: url('../商品效果明细_files/u90_normal.png');
+}
+
+.u448_container {
+    position:absolute;
+    left:756px;
+    top:376px;
+    width:65px;
+    height:84px;
+}
+
+#u448_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:90px;
+}
+
+.u449 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u450_normal {
+    background-image: url('../商品效果明细_files/u200_normal.png');
+}
+
+.u450_container {
+    position:absolute;
+    left:0px;
+    top:460px;
+    width:81px;
+    height:30px;
+}
+
+#u450_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:36px;
+}
+
+.u451 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u452_normal {
+    background-image: url('../商品效果明细_files/u202_normal.png');
+}
+
+.u452_container {
+    position:absolute;
+    left:81px;
+    top:460px;
+    width:71px;
+    height:30px;
+}
+
+#u452_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:36px;
+}
+
+.u453 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:67px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u454_normal {
+    background-image: url('../商品效果明细_files/u204_normal.png');
+}
+
+.u454_container {
+    position:absolute;
+    left:152px;
+    top:460px;
+    width:64px;
+    height:30px;
+}
+
+#u454_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:36px;
+}
+
+.u455 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u456_normal {
+    background-image: url('../商品效果明细_files/u206_normal.png');
+}
+
+.u456_container {
+    position:absolute;
+    left:216px;
+    top:460px;
+    width:93px;
+    height:30px;
+}
+
+#u456_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:36px;
+}
+
+.u457 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:89px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u458_normal {
+    background-image: url('../商品效果明细_files/u208_normal.png');
+}
+
+.u458_container {
+    position:absolute;
+    left:308px;
+    top:460px;
+    width:70px;
+    height:30px;
+}
+
+#u458_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:36px;
+}
+
+.u459 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u460_normal {
+    background-image: url('../商品效果明细_files/u202_normal.png');
+}
+
+.u460_container {
+    position:absolute;
+    left:378px;
+    top:460px;
+    width:71px;
+    height:30px;
+}
+
+#u460_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:36px;
+}
+
+.u461 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:67px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u462_normal {
+    background-image: url('../商品效果明细_files/u212_normal.png');
+}
+
+.u462_container {
+    position:absolute;
+    left:449px;
+    top:460px;
+    width:73px;
+    height:30px;
+}
+
+#u462_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:36px;
+}
+
+.u463 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:69px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u464_normal {
+    background-image: url('../商品效果明细_files/u214_normal.png');
+}
+
+.u464_container {
+    position:absolute;
+    left:522px;
+    top:460px;
+    width:74px;
+    height:30px;
+}
+
+#u464_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:36px;
+}
+
+.u465 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u466_normal {
+    background-image: url('../商品效果明细_files/u216_normal.png');
+}
+
+.u466_container {
+    position:absolute;
+    left:596px;
+    top:460px;
+    width:82px;
+    height:30px;
+}
+
+#u466_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:36px;
+}
+
+.u467 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u468_normal {
+    background-image: url('../商品效果明细_files/u468_normal.png');
+}
+
+.u468_container {
+    position:absolute;
+    left:678px;
+    top:460px;
+    width:79px;
+    height:30px;
+}
+
+#u468_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:85px;
+    height:36px;
+}
+
+.u469 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:75px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u470_normal {
+    background-image: url('../商品效果明细_files/u220_normal.png');
+}
+
+.u470_container {
+    position:absolute;
+    left:756px;
+    top:460px;
+    width:65px;
+    height:30px;
+}
+
+#u470_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:36px;
+}
+
+.u471 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u472_normal {
+    background-image: url('../商品效果明细_files/u200_normal.png');
+}
+
+.u472_container {
+    position:absolute;
+    left:0px;
+    top:490px;
+    width:81px;
+    height:30px;
+}
+
+#u472_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:36px;
+}
+
+.u473 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u474_normal {
+    background-image: url('../商品效果明细_files/u202_normal.png');
+}
+
+.u474_container {
+    position:absolute;
+    left:81px;
+    top:490px;
+    width:71px;
+    height:30px;
+}
+
+#u474_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:36px;
+}
+
+.u475 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:67px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u476_normal {
+    background-image: url('../商品效果明细_files/u204_normal.png');
+}
+
+.u476_container {
+    position:absolute;
+    left:152px;
+    top:490px;
+    width:64px;
+    height:30px;
+}
+
+#u476_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:36px;
+}
+
+.u477 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u478_normal {
+    background-image: url('../商品效果明细_files/u206_normal.png');
+}
+
+.u478_container {
+    position:absolute;
+    left:216px;
+    top:490px;
+    width:93px;
+    height:30px;
+}
+
+#u478_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:36px;
+}
+
+.u479 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:89px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u480_normal {
+    background-image: url('../商品效果明细_files/u208_normal.png');
+}
+
+.u480_container {
+    position:absolute;
+    left:308px;
+    top:490px;
+    width:70px;
+    height:30px;
+}
+
+#u480_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:36px;
+}
+
+.u481 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u482_normal {
+    background-image: url('../商品效果明细_files/u202_normal.png');
+}
+
+.u482_container {
+    position:absolute;
+    left:378px;
+    top:490px;
+    width:71px;
+    height:30px;
+}
+
+#u482_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:36px;
+}
+
+.u483 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:67px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u484_normal {
+    background-image: url('../商品效果明细_files/u212_normal.png');
+}
+
+.u484_container {
+    position:absolute;
+    left:449px;
+    top:490px;
+    width:73px;
+    height:30px;
+}
+
+#u484_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:36px;
+}
+
+.u485 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:69px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u486_normal {
+    background-image: url('../商品效果明细_files/u214_normal.png');
+}
+
+.u486_container {
+    position:absolute;
+    left:522px;
+    top:490px;
+    width:74px;
+    height:30px;
+}
+
+#u486_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:36px;
+}
+
+.u487 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u488_normal {
+    background-image: url('../商品效果明细_files/u216_normal.png');
+}
+
+.u488_container {
+    position:absolute;
+    left:596px;
+    top:490px;
+    width:82px;
+    height:30px;
+}
+
+#u488_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:88px;
+    height:36px;
+}
+
+.u489 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u490_normal {
+    background-image: url('../商品效果明细_files/u468_normal.png');
+}
+
+.u490_container {
+    position:absolute;
+    left:678px;
+    top:490px;
+    width:79px;
+    height:30px;
+}
+
+#u490_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:85px;
+    height:36px;
+}
+
+.u491 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:75px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u492_normal {
+    background-image: url('../商品效果明细_files/u220_normal.png');
+}
+
+.u492_container {
+    position:absolute;
+    left:756px;
+    top:490px;
+    width:65px;
+    height:30px;
+}
+
+#u492_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:36px;
+}
+
+.u493 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u494_normal {
+    background-image: url('../商品效果明细_files/u248_normal.png');
+}
+
+.u494_container {
+    position:absolute;
+    left:764px;
+    top:57px;
+    width:49px;
+    height:20px;
+}
+
+#u494_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:55px;
+    height:26px;
+}
+
+.u495 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:45px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u496_normal {
+    background-image: url('../商品效果明细_files/u248_normal.png');
+}
+
+.u496_container {
+    position:absolute;
+    left:764px;
+    top:81px;
+    width:49px;
+    height:20px;
+}
+
+#u496_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:55px;
+    height:26px;
+}
+
+.u497 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:45px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u498_normal {
+    background-image: url('../商品效果明细_files/u248_normal.png');
+}
+
+.u498_container {
+    position:absolute;
+    left:764px;
+    top:143px;
+    width:49px;
+    height:20px;
+}
+
+#u498_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:55px;
+    height:26px;
+}
+
+.u499 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:45px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u500_normal {
+    background-image: url('../商品效果明细_files/u248_normal.png');
+}
+
+.u500_container {
+    position:absolute;
+    left:764px;
+    top:167px;
+    width:49px;
+    height:20px;
+}
+
+#u500_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:55px;
+    height:26px;
+}
+
+.u501 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:45px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u502_normal {
+    background-image: url('../商品效果明细_files/u248_normal.png');
+}
+
+.u502_container {
+    position:absolute;
+    left:764px;
+    top:226px;
+    width:49px;
+    height:20px;
+}
+
+#u502_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:55px;
+    height:26px;
+}
+
+.u503 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:45px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u504_normal {
+    background-image: url('../商品效果明细_files/u248_normal.png');
+}
+
+.u504_container {
+    position:absolute;
+    left:764px;
+    top:250px;
+    width:49px;
+    height:20px;
+}
+
+#u504_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:55px;
+    height:26px;
+}
+
+.u505 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:45px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u506_normal {
+    background-image: url('../商品效果明细_files/u248_normal.png');
+}
+
+.u506_container {
+    position:absolute;
+    left:764px;
+    top:323px;
+    width:49px;
+    height:20px;
+}
+
+#u506_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:55px;
+    height:26px;
+}
+
+.u507 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:45px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u508_normal {
+    background-image: url('../商品效果明细_files/u248_normal.png');
+}
+
+.u508_container {
+    position:absolute;
+    left:764px;
+    top:409px;
+    width:49px;
+    height:20px;
+}
+
+#u508_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:55px;
+    height:26px;
+}
+
+.u509 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:45px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u510_normal {
+    background-image: url('../M-头部_files/u510_normal.png');
+}
+
+.u510_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1400px;
+    height:70px;
+}
+
+#u510_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1406px;
+    height:76px;
+}
+
+.u511 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:1396px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u512_normal {
+    background-image: url('../M-头部_files/u512_normal.png');
+}
+
+.u512_container {
+    position:absolute;
+    left:100px;
+    top:10px;
+    width:210px;
+    height:44px;
+}
+
+#u512_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:210px;
+    height:44px;
+}
+
+.u513 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:206px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u514 {
+    position:absolute;
+    left:320px;
+    top:12px;
+    width:300px;
+    height:40px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u515 {
+    position:absolute;
+    left:829px;
+    top:12px;
+    width:471px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u516_normal {
+    background-image: url('../M-头部_files/u516_normal.png');
+}
+
+.u516_container {
+    position:absolute;
+    left:0px;
+    top:70px;
+    width:1400px;
+    height:40px;
+}
+
+#u516_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1406px;
+    height:46px;
+}
+
+.u517 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:1396px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u518_mouseOver {
+    background-image: url('../M-头部_files/商城导航_u518_mouseOver.png');
+}
+
+.u518_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u518_container {
+    position:absolute;
+    left:300px;
+    top:70px;
+    width:100px;
+    height:40px;
+}
+
+#u518_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:46px;
+}
+
+.u519 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u520_mouseOver {
+    background-image: url('../M-头部_files/商城导航_u518_mouseOver.png');
+}
+
+.u520_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u520_container {
+    position:absolute;
+    left:190px;
+    top:70px;
+    width:100px;
+    height:40px;
+}
+
+#u520_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:46px;
+}
+
+.u521 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u522_mouseOver {
+    background-image: url('../M-头部_files/商城导航_u518_mouseOver.png');
+}
+
+.u522_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u522_container {
+    position:absolute;
+    left:410px;
+    top:70px;
+    width:100px;
+    height:40px;
+}
+
+#u522_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:46px;
+}
+
+.u523 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u524_mouseOver {
+    background-image: url('../M-头部_files/淘宝_天猫精品_u524_mouseOver.png');
+}
+
+.u524_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u524_container {
+    position:absolute;
+    left:100px;
+    top:70px;
+    width:80px;
+    height:40px;
+}
+
+#u524_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:46px;
+}
+
+.u525 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:76px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u526_mouseOver {
+    background-image: url('../M-头部_files/商城导航_u518_mouseOver.png');
+}
+
+.u526_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u526_container {
+    position:absolute;
+    left:629px;
+    top:70px;
+    width:100px;
+    height:40px;
+}
+
+#u526_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:46px;
+}
+
+.u527 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u528_mouseOver {
+    background-image: url('../M-头部_files/商城导航_u518_mouseOver.png');
+}
+
+.u528_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u528_container {
+    position:absolute;
+    left:520px;
+    top:70px;
+    width:100px;
+    height:40px;
+}
+
+#u528_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:46px;
+}
+
+.u529 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u530_mouseOver {
+    background-image: url('../M-头部_files/商城导航_u518_mouseOver.png');
+}
+
+.u530_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u530_container {
+    position:absolute;
+    left:849px;
+    top:70px;
+    width:100px;
+    height:40px;
+}
+
+#u530_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:46px;
+}
+
+.u531 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u532_mouseOver {
+    background-image: url('../M-头部_files/商城导航_u518_mouseOver.png');
+}
+
+.u532_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u532_container {
+    position:absolute;
+    left:959px;
+    top:70px;
+    width:100px;
+    height:40px;
+}
+
+#u532_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:46px;
+}
+
+.u533 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u534_mouseOver {
+    background-image: url('../M-头部_files/商城导航_u518_mouseOver.png');
+}
+
+.u534_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u534_container {
+    position:absolute;
+    left:1069px;
+    top:70px;
+    width:100px;
+    height:40px;
+}
+
+#u534_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:46px;
+}
+
+.u535 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u536_mouseOver {
+    background-image: url('../M-头部_files/商城导航_u518_mouseOver.png');
+}
+
+.u536_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u536_container {
+    position:absolute;
+    left:739px;
+    top:70px;
+    width:100px;
+    height:40px;
+}
+
+#u536_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:46px;
+}
+
+.u537 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u539_normal {
+    background-image: url('../M-面包屑_files/u539_normal.png');
+}
+
+.u539_container {
+    position:absolute;
+    left:281px;
+    top:120px;
+    width:1020px;
+    height:30px;
+}
+
+#u539_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1026px;
+    height:36px;
+}
+
+.u540 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:1016px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u541 {
+    position:absolute;
+    left:299px;
+    top:120px;
+    width:527px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u543 {
+    position:absolute;
+    left:300px;
+    top:170px;
+    width:180px;
+    height:40px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u544_normal {
+    background-image: url('../商品效果明细_files/u544_normal.png');
+}
+
+.u544_container {
+    position:absolute;
+    left:664px;
+    top:177px;
+    width:60px;
+    height:25px;
+}
+
+#u544_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:31px;
+}
+
+.u545 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:56px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u546 {
+    position:absolute;
+    left:445px;
+    top:179px;
+    width:209px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u547_normal {
+    background-image: url('../商品效果明细_files/u547_normal.png');
+}
+
+.u547_container {
+    position:absolute;
+    left:420px;
+    top:182px;
+    width:15px;
+    height:15px;
+}
+
+#u547_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:21px;
+    height:21px;
+}
+
+.u548 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:11px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u549_normal {
+    background-image: url('../商品效果明细_files/u549_normal.png');
+}
+
+.u549_container {
+    position:absolute;
+    left:426px;
+    top:186px;
+    width:1px;
+    height:3px;
+}
+
+#u549_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:7px;
+    height:9px;
+}
+
+.u550 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u551_normal {
+    background-image: url('../商品效果明细_files/u551_normal.png');
+}
+
+.u551_container {
+    position:absolute;
+    left:426px;
+    top:190px;
+    width:5px;
+    height:1px;
+}
+
+#u551_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:11px;
+    height:7px;
+}
+
+.u552 {
+    position:absolute;
+    left:2px;
+    top:-8px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u553_normal {
+    background-image: url('../商品效果明细_files/u32_normal.png');
+}
+
+.u553_container {
+    position:absolute;
+    left:301px;
+    top:221px;
+    width:24px;
+    height:26px;
+}
+
+#u553_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:26px;
+}
+
+.u554 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u555 {
+    position:absolute;
+    left:322px;
+    top:224px;
+    width:180px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u556 {
+    position:absolute;
+    left:300px;
+    top:258px;
+    width:977px;
+    height:109px
+}
+
+.u557_normal {
+    background-image: url('../商品效果明细_files/u557_normal.png');
+}
+
+.u557_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:30px;
+}
+
+#u557_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u558 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u559_normal {
+    background-image: url('../商品效果明细_files/u559_normal.png');
+}
+
+.u559_container {
+    position:absolute;
+    left:100px;
+    top:0px;
+    width:126px;
+    height:30px;
+}
+
+#u559_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:132px;
+    height:36px;
+}
+
+.u560 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:122px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u561_normal {
+    background-image: url('../商品效果明细_files/u561_normal.png');
+}
+
+.u561_container {
+    position:absolute;
+    left:226px;
+    top:0px;
+    width:135px;
+    height:30px;
+}
+
+#u561_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:141px;
+    height:36px;
+}
+
+.u562 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:131px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u563_normal {
+    background-image: url('../商品效果明细_files/u563_normal.png');
+}
+
+.u563_container {
+    position:absolute;
+    left:361px;
+    top:0px;
+    width:159px;
+    height:30px;
+}
+
+#u563_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:165px;
+    height:36px;
+}
+
+.u564 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:155px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u565_normal {
+    background-image: url('../商品效果明细_files/u565_normal.png');
+}
+
+.u565_container {
+    position:absolute;
+    left:520px;
+    top:0px;
+    width:125px;
+    height:30px;
+}
+
+#u565_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u566 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:121px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u567_normal {
+    background-image: url('../商品效果明细_files/u567_normal.png');
+}
+
+.u567_container {
+    position:absolute;
+    left:645px;
+    top:0px;
+    width:162px;
+    height:30px;
+}
+
+#u567_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:168px;
+    height:36px;
+}
+
+.u568 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:158px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u569_normal {
+    background-image: url('../商品效果明细_files/u569_normal.png');
+}
+
+.u569_container {
+    position:absolute;
+    left:807px;
+    top:0px;
+    width:165px;
+    height:30px;
+}
+
+#u569_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:171px;
+    height:36px;
+}
+
+.u570 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:161px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u571_normal {
+    background-image: url('../商品效果明细_files/u571_normal.png');
+}
+
+.u571_container {
+    position:absolute;
+    left:0px;
+    top:30px;
+    width:100px;
+    height:37px;
+}
+
+#u571_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:43px;
+}
+
+.u572 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u573_normal {
+    background-image: url('../商品效果明细_files/u573_normal.png');
+}
+
+.u573_container {
+    position:absolute;
+    left:100px;
+    top:30px;
+    width:126px;
+    height:37px;
+}
+
+#u573_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:132px;
+    height:43px;
+}
+
+.u574 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:122px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u575_normal {
+    background-image: url('../商品效果明细_files/u575_normal.png');
+}
+
+.u575_container {
+    position:absolute;
+    left:226px;
+    top:30px;
+    width:135px;
+    height:37px;
+}
+
+#u575_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:141px;
+    height:43px;
+}
+
+.u576 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:131px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u577_normal {
+    background-image: url('../商品效果明细_files/u577_normal.png');
+}
+
+.u577_container {
+    position:absolute;
+    left:361px;
+    top:30px;
+    width:159px;
+    height:37px;
+}
+
+#u577_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:165px;
+    height:43px;
+}
+
+.u578 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:155px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u579_normal {
+    background-image: url('../商品效果明细_files/u579_normal.png');
+}
+
+.u579_container {
+    position:absolute;
+    left:520px;
+    top:30px;
+    width:125px;
+    height:37px;
+}
+
+#u579_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:43px;
+}
+
+.u580 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u581_normal {
+    background-image: url('../商品效果明细_files/u581_normal.png');
+}
+
+.u581_container {
+    position:absolute;
+    left:645px;
+    top:30px;
+    width:162px;
+    height:37px;
+}
+
+#u581_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:168px;
+    height:43px;
+}
+
+.u582 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:158px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u583_normal {
+    background-image: url('../商品效果明细_files/u583_normal.png');
+}
+
+.u583_container {
+    position:absolute;
+    left:807px;
+    top:30px;
+    width:165px;
+    height:37px;
+}
+
+#u583_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:171px;
+    height:43px;
+}
+
+.u584 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:161px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u585_normal {
+    background-image: url('../商品效果明细_files/u571_normal.png');
+}
+
+.u585_container {
+    position:absolute;
+    left:0px;
+    top:67px;
+    width:100px;
+    height:37px;
+}
+
+#u585_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:43px;
+}
+
+.u586 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u587_normal {
+    background-image: url('../商品效果明细_files/u573_normal.png');
+}
+
+.u587_container {
+    position:absolute;
+    left:100px;
+    top:67px;
+    width:126px;
+    height:37px;
+}
+
+#u587_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:132px;
+    height:43px;
+}
+
+.u588 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:122px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u589_normal {
+    background-image: url('../商品效果明细_files/u575_normal.png');
+}
+
+.u589_container {
+    position:absolute;
+    left:226px;
+    top:67px;
+    width:135px;
+    height:37px;
+}
+
+#u589_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:141px;
+    height:43px;
+}
+
+.u590 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:131px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u591_normal {
+    background-image: url('../商品效果明细_files/u577_normal.png');
+}
+
+.u591_container {
+    position:absolute;
+    left:361px;
+    top:67px;
+    width:159px;
+    height:37px;
+}
+
+#u591_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:165px;
+    height:43px;
+}
+
+.u592 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:155px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u593_normal {
+    background-image: url('../商品效果明细_files/u579_normal.png');
+}
+
+.u593_container {
+    position:absolute;
+    left:520px;
+    top:67px;
+    width:125px;
+    height:37px;
+}
+
+#u593_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:43px;
+}
+
+.u594 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u595_normal {
+    background-image: url('../商品效果明细_files/u581_normal.png');
+}
+
+.u595_container {
+    position:absolute;
+    left:645px;
+    top:67px;
+    width:162px;
+    height:37px;
+}
+
+#u595_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:168px;
+    height:43px;
+}
+
+.u596 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:158px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u597_normal {
+    background-image: url('../商品效果明细_files/u583_normal.png');
+}
+
+.u597_container {
+    position:absolute;
+    left:807px;
+    top:67px;
+    width:165px;
+    height:37px;
+}
+
+#u597_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:171px;
+    height:43px;
+}
+
+.u598 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:161px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u599 {
+    position:absolute;
+    left:1299px;
+    top:267px;
+    width:150px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u600_normal {
+    background-image: url('../商品效果明细_files/u600_normal.png');
+}
+
+.u600_container {
+    position:absolute;
+    left:819px;
+    top:177px;
+    width:75px;
+    height:25px;
+}
+
+#u600_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:31px;
+}
+
+.u601 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:71px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u602_normal {
+    background-image: url('../商品效果明细_files/u602_normal.png');
+}
+
+.u602_container {
+    position:absolute;
+    left:733px;
+    top:177px;
+    width:76px;
+    height:25px;
+}
+
+#u602_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:82px;
+    height:31px;
+}
+
+.u603 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:72px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u604_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u604_normal.png');
+}
+
+.u604_container {
+    position:absolute;
+    left:100px;
+    top:120px;
+    width:180px;
+    height:912px;
+}
+
+#u604_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:918px;
+}
+
+.u605 {
+    position:absolute;
+    left:2px;
+    top:448px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u606_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u606_mouseOver.png');
+}
+
+.u606_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u606_normal.png');
+}
+
+.u606_container {
+    position:absolute;
+    left:100px;
+    top:120px;
+    width:180px;
+    height:40px;
+}
+
+#u606_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u607 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u608_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u606_mouseOver.png');
+}
+
+.u608_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u606_normal.png');
+}
+
+.u608_container {
+    position:absolute;
+    left:99px;
+    top:593px;
+    width:180px;
+    height:40px;
+}
+
+#u608_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u609 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u610_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u606_mouseOver.png');
+}
+
+.u610_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u606_normal.png');
+}
+
+.u610_container {
+    position:absolute;
+    left:99px;
+    top:513px;
+    width:180px;
+    height:40px;
+}
+
+#u610_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u611 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u612_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u606_mouseOver.png');
+}
+
+.u612_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u606_normal.png');
+}
+
+.u612_container {
+    position:absolute;
+    left:99px;
+    top:473px;
+    width:180px;
+    height:40px;
+}
+
+#u612_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u613 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u614_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u606_mouseOver.png');
+}
+
+.u614_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u606_normal.png');
+}
+
+.u614_container {
+    position:absolute;
+    left:100px;
+    top:160px;
+    width:180px;
+    height:40px;
+}
+
+#u614_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u615 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u616_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u606_mouseOver.png');
+}
+
+.u616_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u606_normal.png');
+}
+
+.u616_container {
+    position:absolute;
+    left:99px;
+    top:200px;
+    width:180px;
+    height:40px;
+}
+
+#u616_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u617 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u618_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u606_mouseOver.png');
+}
+
+.u618_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u606_normal.png');
+}
+
+.u618_container {
+    position:absolute;
+    left:99px;
+    top:553px;
+    width:180px;
+    height:40px;
+}
+
+#u618_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u619 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u620_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u606_mouseOver.png');
+}
+
+.u620_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u606_normal.png');
+}
+
+.u620_container {
+    position:absolute;
+    left:99px;
+    top:433px;
+    width:180px;
+    height:40px;
+}
+
+#u620_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u621 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u622_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u606_mouseOver.png');
+}
+
+.u622_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u606_normal.png');
+}
+
+.u622_container {
+    position:absolute;
+    left:99px;
+    top:633px;
+    width:180px;
+    height:40px;
+}
+
+#u622_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u623 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u624_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u624_mouseOver.png');
+}
+
+.u624_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u624_mouseOver.png');
+}
+
+.u624_container {
+    position:absolute;
+    left:129px;
+    top:306px;
+    width:150px;
+    height:30px;
+}
+
+#u624_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:36px;
+}
+
+.u625 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:146px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u626_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u624_mouseOver.png');
+}
+
+.u626_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u624_mouseOver.png');
+}
+
+.u626_container {
+    position:absolute;
+    left:129px;
+    top:242px;
+    width:150px;
+    height:30px;
+}
+
+#u626_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:36px;
+}
+
+.u627 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:146px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u628_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u624_mouseOver.png');
+}
+
+.u628_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u624_mouseOver.png');
+}
+
+.u628_container {
+    position:absolute;
+    left:129px;
+    top:338px;
+    width:150px;
+    height:30px;
+}
+
+#u628_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:36px;
+}
+
+.u629 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:146px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u630_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u624_mouseOver.png');
+}
+
+.u630_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u624_mouseOver.png');
+}
+
+.u630_container {
+    position:absolute;
+    left:129px;
+    top:370px;
+    width:150px;
+    height:30px;
+}
+
+#u630_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:36px;
+}
+
+.u631 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:146px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u632_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u624_mouseOver.png');
+}
+
+.u632_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u624_mouseOver.png');
+}
+
+.u632_container {
+    position:absolute;
+    left:129px;
+    top:402px;
+    width:150px;
+    height:30px;
+}
+
+#u632_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:36px;
+}
+
+.u633 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:146px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u634_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u624_mouseOver.png');
+}
+
+.u634_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u624_mouseOver.png');
+}
+
+.u634_container {
+    position:absolute;
+    left:129px;
+    top:274px;
+    width:150px;
+    height:30px;
+}
+
+#u634_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:36px;
+}
+
+.u635 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:146px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u636_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u606_mouseOver.png');
+}
+
+.u636_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u606_normal.png');
+}
+
+.u636_container {
+    position:absolute;
+    left:99px;
+    top:673px;
+    width:180px;
+    height:40px;
+}
+
+#u636_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u637 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u638_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u638_normal.png');
+}
+
+.u638_container {
+    position:absolute;
+    left:268px;
+    top:121px;
+    width:11px;
+    height:911px;
+}
+
+#u638_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:17px;
+    height:917px;
+}
+
+.u639 {
+    position:absolute;
+    left:2px;
+    top:448px;
+    width:7px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u640_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u640_normal.png');
+}
+
+.u640_container {
+    position:absolute;
+    left:268px;
+    top:267px;
+    width:11px;
+    height:224px;
+}
+
+#u640_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:17px;
+    height:230px;
+}
+
+.u641 {
+    position:absolute;
+    left:2px;
+    top:104px;
+    width:7px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u642 {
+    position:absolute;
+    left:268px;
+    top:361px;
+    width:37px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u644_mouseOver {
+    background-image: url('../商品效果明细_files/u644_mouseOver.png');
+}
+
+.u644_normal {
+    background-image: url('../商品效果明细_files/u644_mouseOver.png');
+}
+
+.u644_container {
+    position:absolute;
+    left:130px;
+    top:307px;
+    width:136px;
+    height:30px;
+}
+
+#u644_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:142px;
+    height:36px;
+}
+
+.u645 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:132px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

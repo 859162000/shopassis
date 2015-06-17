@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hive_udf">
+    <output-path>E:/work/svn/DA&amp;DM/DA/resouce/1-品类流量&amp;订单统计/category_caculate/lib</output-path>
+    <root id="archive" name="hive_udf.jar">
+      <element id="module-output" name="hive_udf" />
+    </root>
+  </artifact>
+</component>

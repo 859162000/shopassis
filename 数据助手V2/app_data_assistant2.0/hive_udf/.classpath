@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="E:/工具/hadoop-1.1.1/hadoop-core-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/工具/hive-0.11.0-bin/lib/hive-common-0.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/工具/hive-0.11.0-bin/lib/hive-service-0.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/工具/hive-0.11.0-bin/lib/hive-beeline-0.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/工具/hive-0.11.0-bin/lib/hive-cli-0.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/工具/hive-0.11.0-bin/lib/hive-contrib-0.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/工具/hive-0.11.0-bin/lib/hive-exec-0.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/工具/hive-0.11.0-bin/lib/hive-hbase-handler-0.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/工具/hive-0.11.0-bin/lib/hive-hwi-0.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/工具/hive-0.11.0-bin/lib/hive-jdbc-0.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/工具/hive-0.11.0-bin/lib/hive-metastore-0.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/工具/hive-0.11.0-bin/lib/hive-serde-0.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/工具/hive-0.11.0-bin/lib/hive-shims-0.11.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

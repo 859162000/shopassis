@@ -1,0 +1,8551 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#u0 {
+    position:absolute;
+    left:290px;
+    top:220px;
+    width:1036px;
+    height:1699px;
+    overflow:hidden;
+}
+
+#pd3u0 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1036px;
+    height:1699px;
+    
+}
+
+.u1_normal {
+    background-image: url('../店内流量动态_files/u1_normal.png');
+}
+
+.u1_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1010px;
+    height:1306px;
+}
+
+#u1_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1016px;
+    height:1312px;
+}
+
+.u2 {
+    position:absolute;
+    left:2px;
+    top:645px;
+    width:1006px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3_normal {
+    background-image: url('../店内流量动态_files/u3_normal.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:10px;
+    top:293px;
+    width:990px;
+    height:727px;
+}
+
+#u3_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:996px;
+    height:733px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:356px;
+    width:986px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../店内流量动态_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:0px;
+    top:1px;
+    width:1009px;
+    height:40px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1015px;
+    height:46px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:1005px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../店内流量动态_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:20px;
+    top:1px;
+    width:125px;
+    height:40px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:46px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:121px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../店内流量动态_files/u9_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:145px;
+    top:1px;
+    width:125px;
+    height:40px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:46px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:121px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../店内流量动态_files/u11_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:136px;
+    top:263px;
+    width:90px;
+    height:30px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:36px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:86px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../店内流量动态_files/u11_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:226px;
+    top:263px;
+    width:90px;
+    height:30px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:36px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:86px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../店内流量动态_files/u15_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:316px;
+    top:263px;
+    width:90px;
+    height:30px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:36px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:86px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../店内流量动态_files/u17_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:833px;
+    top:60px;
+    width:157px;
+    height:32px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:163px;
+    height:38px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:153px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../店内流量动态_files/u19_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:824px;
+    top:60px;
+    width:90px;
+    height:32px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:38px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:86px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21 {
+    position:absolute;
+    left:931px;
+    top:68px;
+    width:63px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../店内流量动态_files/u22_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:11px;
+    top:265px;
+    width:24px;
+    height:26px;
+}
+
+#u22_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:26px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:32px;
+    top:268px;
+    width:133px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../店内流量动态_files/u22_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:11px;
+    top:81px;
+    width:24px;
+    height:26px;
+}
+
+#u25_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:26px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:32px;
+    top:84px;
+    width:180px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../店内流量动态_files/u28_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:11px;
+    top:114px;
+    width:992px;
+    height:123px;
+}
+
+#u28_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:992px;
+    height:123px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:54px;
+    width:988px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd2u0 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1036px;
+    height:1699px;
+    
+}
+
+.u30_normal {
+    background-image: url('../店内流量动态_files/u1_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1010px;
+    height:1306px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1016px;
+    height:1312px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:645px;
+    width:1006px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_normal {
+    background-image: url('../店内流量动态_files/u32_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:10px;
+    top:267px;
+    width:990px;
+    height:971px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:996px;
+    height:977px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:478px;
+    width:986px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_normal {
+    background-image: url('../店内流量动态_files/u5_normal.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:0px;
+    top:1px;
+    width:1009px;
+    height:40px;
+}
+
+#u34_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1015px;
+    height:46px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:1005px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../店内流量动态_files/u9_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:20px;
+    top:1px;
+    width:125px;
+    height:40px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:46px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:121px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38 {
+    position:absolute;
+    left:32px;
+    top:782px;
+    width:150px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39 {
+    position:absolute;
+    left:32px;
+    top:285px;
+    width:180px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48 {
+    position:absolute;
+    left:32px;
+    top:401px;
+    width:180px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u49 {
+    position:absolute;
+    left:17px;
+    top:322px;
+    width:975px;
+    height:65px
+}
+
+.u50_normal {
+    background-image: url('../店内流量动态_files/u50_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:127px;
+    height:30px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:133px;
+    height:36px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:123px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../店内流量动态_files/u52_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:127px;
+    top:0px;
+    width:161px;
+    height:30px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:167px;
+    height:36px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:157px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_normal {
+    background-image: url('../店内流量动态_files/u54_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:288px;
+    top:0px;
+    width:178px;
+    height:30px;
+}
+
+#u54_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:184px;
+    height:36px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:174px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56_normal {
+    background-image: url('../店内流量动态_files/u56_normal.png');
+}
+
+.u56_container {
+    position:absolute;
+    left:466px;
+    top:0px;
+    width:187px;
+    height:30px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:36px;
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:183px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58_normal {
+    background-image: url('../店内流量动态_files/u58_normal.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:653px;
+    top:0px;
+    width:317px;
+    height:30px;
+}
+
+#u58_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:323px;
+    height:36px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:313px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60_normal {
+    background-image: url('../店内流量动态_files/u50_normal.png');
+}
+
+.u60_container {
+    position:absolute;
+    left:0px;
+    top:30px;
+    width:127px;
+    height:30px;
+}
+
+#u60_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:133px;
+    height:36px;
+}
+
+.u61 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:123px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_normal {
+    background-image: url('../店内流量动态_files/u52_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:127px;
+    top:30px;
+    width:161px;
+    height:30px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:167px;
+    height:36px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:157px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../店内流量动态_files/u54_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:288px;
+    top:30px;
+    width:178px;
+    height:30px;
+}
+
+#u64_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:184px;
+    height:36px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:174px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_normal {
+    background-image: url('../店内流量动态_files/u56_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:466px;
+    top:30px;
+    width:187px;
+    height:30px;
+}
+
+#u66_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:36px;
+}
+
+.u67 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:183px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68_normal {
+    background-image: url('../店内流量动态_files/u58_normal.png');
+}
+
+.u68_container {
+    position:absolute;
+    left:653px;
+    top:30px;
+    width:317px;
+    height:30px;
+}
+
+#u68_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:323px;
+    height:36px;
+}
+
+.u69 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:313px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70 {
+    position:absolute;
+    left:144px;
+    top:784px;
+    width:113px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71 {
+    position:absolute;
+    left:350px;
+    top:427px;
+    width:200px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_normal {
+    background-image: url('../店内流量动态_files/u7_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:145px;
+    top:1px;
+    width:125px;
+    height:40px;
+}
+
+#u72_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:46px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:121px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74_normal {
+    background-image: url('../店内流量动态_files/u11_normal.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:136px;
+    top:237px;
+    width:90px;
+    height:30px;
+}
+
+#u74_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:36px;
+}
+
+.u75 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:86px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76_normal {
+    background-image: url('../店内流量动态_files/u11_normal.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:226px;
+    top:237px;
+    width:90px;
+    height:30px;
+}
+
+#u76_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:36px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:86px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78_normal {
+    background-image: url('../店内流量动态_files/u15_normal.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:316px;
+    top:237px;
+    width:90px;
+    height:30px;
+}
+
+#u78_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:36px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:86px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../店内流量动态_files/u80_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:20px;
+    top:812px;
+    width:382px;
+    height:307px;
+}
+
+#u80_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:382px;
+    height:307px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:146px;
+    width:378px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_normal {
+    background-image: url('../店内流量动态_files/u82_normal.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:382px;
+    top:812px;
+    width:41px;
+    height:307px;
+}
+
+#u82_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:41px;
+    height:307px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:146px;
+    width:37px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84_normal {
+    background-image: url('../店内流量动态_files/u84_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:418px;
+    top:927px;
+    width:196px;
+    height:80px;
+}
+
+#u84_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:196px;
+    height:80px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:192px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_normal {
+    background-image: url('../店内流量动态_files/u86_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:589px;
+    top:812px;
+    width:39px;
+    height:307px;
+}
+
+#u86_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:39px;
+    height:307px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:146px;
+    width:35px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88_normal {
+    background-image: url('../店内流量动态_files/u88_normal.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:612px;
+    top:812px;
+    width:365px;
+    height:307px;
+}
+
+#u88_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:365px;
+    height:307px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:146px;
+    width:361px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_normal {
+    background-image: url('../店内流量动态_files/u90_normal.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:714px;
+    top:285px;
+    width:134px;
+    height:25px;
+}
+
+#u90_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:140px;
+    height:31px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:130px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_normal {
+    background-image: url('../店内流量动态_files/u92_normal.png');
+}
+
+.u92_container {
+    position:absolute;
+    left:928px;
+    top:427px;
+    width:60px;
+    height:25px;
+}
+
+#u92_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:31px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94 {
+    position:absolute;
+    left:470px;
+    top:545px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95 {
+    position:absolute;
+    left:470px;
+    top:729px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96_normal {
+    background-image: url('../店内流量动态_files/u96_normal.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:456px;
+    top:1014px;
+    width:100px;
+    height:25px;
+}
+
+#u96_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u97 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98_normal {
+    background-image: url('../店内流量动态_files/u22_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:11px;
+    top:239px;
+    width:24px;
+    height:26px;
+}
+
+#u98_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:26px;
+}
+
+.u99 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100 {
+    position:absolute;
+    left:32px;
+    top:242px;
+    width:180px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u101_normal {
+    background-image: url('../店内流量动态_files/u101_normal.png');
+}
+
+.u101_container {
+    position:absolute;
+    left:858px;
+    top:285px;
+    width:121px;
+    height:25px;
+}
+
+#u101_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:31px;
+}
+
+.u102 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u103_normal {
+    background-image: url('../店内流量动态_files/u22_normal.png');
+}
+
+.u103_container {
+    position:absolute;
+    left:11px;
+    top:51px;
+    width:24px;
+    height:26px;
+}
+
+#u103_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:26px;
+}
+
+.u104 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u105 {
+    position:absolute;
+    left:32px;
+    top:54px;
+    width:180px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106_normal {
+    background-image: url('../店内流量动态_files/u28_normal.png');
+}
+
+.u106_container {
+    position:absolute;
+    left:11px;
+    top:87px;
+    width:992px;
+    height:123px;
+}
+
+#u106_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:992px;
+    height:123px;
+}
+
+.u107 {
+    position:absolute;
+    left:2px;
+    top:54px;
+    width:988px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u108 {
+    position:absolute;
+    left:627px;
+    top:1071px;
+    width:348px;
+    height:61px
+}
+
+.u109_normal {
+    background-image: url('../店内流量动态_files/u109_normal.png');
+}
+
+.u109_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:154px;
+    height:28px;
+}
+
+#u109_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:160px;
+    height:34px;
+}
+
+.u110 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u111_normal {
+    background-image: url('../店内流量动态_files/u111_normal.png');
+}
+
+.u111_container {
+    position:absolute;
+    left:154px;
+    top:0px;
+    width:100px;
+    height:28px;
+}
+
+#u111_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:34px;
+}
+
+.u112 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u113_normal {
+    background-image: url('../店内流量动态_files/u113_normal.png');
+}
+
+.u113_container {
+    position:absolute;
+    left:254px;
+    top:0px;
+    width:89px;
+    height:28px;
+}
+
+#u113_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:95px;
+    height:34px;
+}
+
+.u114 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:85px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u115_normal {
+    background-image: url('../店内流量动态_files/u109_normal.png');
+}
+
+.u115_container {
+    position:absolute;
+    left:0px;
+    top:28px;
+    width:154px;
+    height:28px;
+}
+
+#u115_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:160px;
+    height:34px;
+}
+
+.u116 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u117_normal {
+    background-image: url('../店内流量动态_files/u111_normal.png');
+}
+
+.u117_container {
+    position:absolute;
+    left:154px;
+    top:28px;
+    width:100px;
+    height:28px;
+}
+
+#u117_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:34px;
+}
+
+.u118 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u119_normal {
+    background-image: url('../店内流量动态_files/u113_normal.png');
+}
+
+.u119_container {
+    position:absolute;
+    left:254px;
+    top:28px;
+    width:89px;
+    height:28px;
+}
+
+#u119_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:95px;
+    height:34px;
+}
+
+.u120 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:85px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd1u0 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1036px;
+    height:1699px;
+    
+}
+
+.u121_normal {
+    background-image: url('../店内流量动态_files/u121_normal.png');
+}
+
+.u121_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1010px;
+    height:1566px;
+}
+
+#u121_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1016px;
+    height:1572px;
+}
+
+.u122 {
+    position:absolute;
+    left:2px;
+    top:775px;
+    width:1006px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u123_normal {
+    background-image: url('../店内流量动态_files/u123_normal.png');
+}
+
+.u123_container {
+    position:absolute;
+    left:10px;
+    top:296px;
+    width:990px;
+    height:1190px;
+}
+
+#u123_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:996px;
+    height:1196px;
+}
+
+.u124 {
+    position:absolute;
+    left:2px;
+    top:587px;
+    width:986px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u125_normal {
+    background-image: url('../店内流量动态_files/u5_normal.png');
+}
+
+.u125_container {
+    position:absolute;
+    left:0px;
+    top:1px;
+    width:1009px;
+    height:40px;
+}
+
+#u125_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1015px;
+    height:46px;
+}
+
+.u126 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:1005px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u127_normal {
+    background-image: url('../店内流量动态_files/u9_normal.png');
+}
+
+.u127_container {
+    position:absolute;
+    left:20px;
+    top:1px;
+    width:125px;
+    height:40px;
+}
+
+#u127_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:46px;
+}
+
+.u128 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:121px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u129_normal {
+    background-image: url('../店内流量动态_files/u7_normal.png');
+}
+
+.u129_container {
+    position:absolute;
+    left:145px;
+    top:1px;
+    width:125px;
+    height:40px;
+}
+
+#u129_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:46px;
+}
+
+.u130 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:121px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u131_normal {
+    background-image: url('../店内流量动态_files/u11_normal.png');
+}
+
+.u131_container {
+    position:absolute;
+    left:136px;
+    top:235px;
+    width:90px;
+    height:30px;
+}
+
+#u131_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:36px;
+}
+
+.u132 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:86px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u133_normal {
+    background-image: url('../店内流量动态_files/u15_normal.png');
+}
+
+.u133_container {
+    position:absolute;
+    left:226px;
+    top:235px;
+    width:90px;
+    height:30px;
+}
+
+#u133_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:36px;
+}
+
+.u134 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:86px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u135_normal {
+    background-image: url('../店内流量动态_files/u11_normal.png');
+}
+
+.u135_container {
+    position:absolute;
+    left:316px;
+    top:235px;
+    width:90px;
+    height:30px;
+}
+
+#u135_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:36px;
+}
+
+.u136 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:86px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u137 {
+    position:absolute;
+    left:32px;
+    top:879px;
+    width:150px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u138 {
+    position:absolute;
+    left:32px;
+    top:315px;
+    width:180px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u144 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u147 {
+    position:absolute;
+    left:32px;
+    top:439px;
+    width:180px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u148 {
+    position:absolute;
+    left:17px;
+    top:349px;
+    width:982px;
+    height:72px
+}
+
+.u149_normal {
+    background-image: url('../店内流量动态_files/u149_normal.png');
+}
+
+.u149_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:30px;
+}
+
+#u149_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u150 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u151_normal {
+    background-image: url('../店内流量动态_files/u151_normal.png');
+}
+
+.u151_container {
+    position:absolute;
+    left:100px;
+    top:0px;
+    width:220px;
+    height:30px;
+}
+
+#u151_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:36px;
+}
+
+.u152 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:216px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u153_normal {
+    background-image: url('../店内流量动态_files/u151_normal.png');
+}
+
+.u153_container {
+    position:absolute;
+    left:320px;
+    top:0px;
+    width:220px;
+    height:30px;
+}
+
+#u153_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:36px;
+}
+
+.u154 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:216px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u155_normal {
+    background-image: url('../店内流量动态_files/u151_normal.png');
+}
+
+.u155_container {
+    position:absolute;
+    left:540px;
+    top:0px;
+    width:220px;
+    height:30px;
+}
+
+#u155_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:36px;
+}
+
+.u156 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:216px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u157_normal {
+    background-image: url('../店内流量动态_files/u157_normal.png');
+}
+
+.u157_container {
+    position:absolute;
+    left:760px;
+    top:0px;
+    width:217px;
+    height:30px;
+}
+
+#u157_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:223px;
+    height:36px;
+}
+
+.u158 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:213px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u159_normal {
+    background-image: url('../店内流量动态_files/u159_normal.png');
+}
+
+.u159_container {
+    position:absolute;
+    left:0px;
+    top:30px;
+    width:100px;
+    height:37px;
+}
+
+#u159_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:43px;
+}
+
+.u160 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u161_normal {
+    background-image: url('../店内流量动态_files/u161_normal.png');
+}
+
+.u161_container {
+    position:absolute;
+    left:100px;
+    top:30px;
+    width:220px;
+    height:37px;
+}
+
+#u161_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:43px;
+}
+
+.u162 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:216px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u163_normal {
+    background-image: url('../店内流量动态_files/u161_normal.png');
+}
+
+.u163_container {
+    position:absolute;
+    left:320px;
+    top:30px;
+    width:220px;
+    height:37px;
+}
+
+#u163_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:43px;
+}
+
+.u164 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:216px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u165_normal {
+    background-image: url('../店内流量动态_files/u161_normal.png');
+}
+
+.u165_container {
+    position:absolute;
+    left:540px;
+    top:30px;
+    width:220px;
+    height:37px;
+}
+
+#u165_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:43px;
+}
+
+.u166 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u167_normal {
+    background-image: url('../店内流量动态_files/u167_normal.png');
+}
+
+.u167_container {
+    position:absolute;
+    left:760px;
+    top:30px;
+    width:217px;
+    height:37px;
+}
+
+#u167_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:223px;
+    height:43px;
+}
+
+.u168 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:213px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u169 {
+    position:absolute;
+    left:154px;
+    top:881px;
+    width:113px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u170 {
+    position:absolute;
+    left:350px;
+    top:469px;
+    width:200px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u171_normal {
+    background-image: url('../店内流量动态_files/u171_normal.png');
+}
+
+.u171_container {
+    position:absolute;
+    left:589px;
+    top:917px;
+    width:49px;
+    height:303px;
+}
+
+#u171_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:49px;
+    height:303px;
+}
+
+.u172 {
+    position:absolute;
+    left:2px;
+    top:144px;
+    width:45px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u173_normal {
+    background-image: url('../店内流量动态_files/u173_normal.png');
+}
+
+.u173_container {
+    position:absolute;
+    left:620px;
+    top:917px;
+    width:361px;
+    height:303px;
+}
+
+#u173_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:361px;
+    height:303px;
+}
+
+.u174 {
+    position:absolute;
+    left:2px;
+    top:144px;
+    width:357px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u175_normal {
+    background-image: url('../店内流量动态_files/u175_normal.png');
+}
+
+.u175_container {
+    position:absolute;
+    left:381px;
+    top:917px;
+    width:50px;
+    height:303px;
+}
+
+#u175_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:303px;
+}
+
+.u176 {
+    position:absolute;
+    left:2px;
+    top:144px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u177_normal {
+    background-image: url('../店内流量动态_files/u92_normal.png');
+}
+
+.u177_container {
+    position:absolute;
+    left:921px;
+    top:469px;
+    width:60px;
+    height:25px;
+}
+
+#u177_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:31px;
+}
+
+.u178 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u179 {
+    position:absolute;
+    left:470px;
+    top:621px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u180 {
+    position:absolute;
+    left:470px;
+    top:767px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u181_normal {
+    background-image: url('../店内流量动态_files/u181_normal.png');
+}
+
+.u181_container {
+    position:absolute;
+    left:428px;
+    top:1031px;
+    width:155px;
+    height:77px;
+}
+
+#u181_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:155px;
+    height:77px;
+}
+
+.u182 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:151px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u183_normal {
+    background-image: url('../店内流量动态_files/u22_normal.png');
+}
+
+.u183_container {
+    position:absolute;
+    left:11px;
+    top:237px;
+    width:24px;
+    height:26px;
+}
+
+#u183_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:26px;
+}
+
+.u184 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u185 {
+    position:absolute;
+    left:32px;
+    top:240px;
+    width:180px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u186_normal {
+    background-image: url('../店内流量动态_files/u186_normal.png');
+}
+
+.u186_container {
+    position:absolute;
+    left:34px;
+    top:917px;
+    width:347px;
+    height:286px;
+}
+
+#u186_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:347px;
+    height:286px;
+}
+
+.u187 {
+    position:absolute;
+    left:2px;
+    top:135px;
+    width:343px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u188_normal {
+    background-image: url('../店内流量动态_files/u22_normal.png');
+}
+
+.u188_container {
+    position:absolute;
+    left:11px;
+    top:51px;
+    width:24px;
+    height:26px;
+}
+
+#u188_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:26px;
+}
+
+.u189 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u190 {
+    position:absolute;
+    left:32px;
+    top:54px;
+    width:180px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u191_normal {
+    background-image: url('../店内流量动态_files/u28_normal.png');
+}
+
+.u191_container {
+    position:absolute;
+    left:11px;
+    top:87px;
+    width:992px;
+    height:123px;
+}
+
+#u191_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:992px;
+    height:123px;
+}
+
+.u192 {
+    position:absolute;
+    left:2px;
+    top:54px;
+    width:988px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u0 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1036px;
+    height:1699px;
+    
+}
+
+.u193_normal {
+    background-image: url('../店内流量动态_files/u121_normal.png');
+}
+
+.u193_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1010px;
+    height:1566px;
+}
+
+#u193_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1016px;
+    height:1572px;
+}
+
+.u194 {
+    position:absolute;
+    left:2px;
+    top:775px;
+    width:1006px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u195_normal {
+    background-image: url('../店内流量动态_files/u195_normal.png');
+}
+
+.u195_container {
+    position:absolute;
+    left:5px;
+    top:268px;
+    width:1000px;
+    height:972px;
+}
+
+#u195_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1006px;
+    height:978px;
+}
+
+.u196 {
+    position:absolute;
+    left:2px;
+    top:478px;
+    width:996px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u197_normal {
+    background-image: url('../店内流量动态_files/u5_normal.png');
+}
+
+.u197_container {
+    position:absolute;
+    left:0px;
+    top:1px;
+    width:1009px;
+    height:40px;
+}
+
+#u197_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1015px;
+    height:46px;
+}
+
+.u198 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:1005px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u199_normal {
+    background-image: url('../店内流量动态_files/u9_normal.png');
+}
+
+.u199_container {
+    position:absolute;
+    left:20px;
+    top:1px;
+    width:125px;
+    height:40px;
+}
+
+#u199_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:46px;
+}
+
+.u200 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:121px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u201 {
+    position:absolute;
+    left:32px;
+    top:830px;
+    width:150px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u202 {
+    position:absolute;
+    left:32px;
+    top:292px;
+    width:180px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u203 {
+    position:absolute;
+    left:11px;
+    top:326px;
+    width:988px;
+    height:109px
+}
+
+.u204_normal {
+    background-image: url('../店内流量动态_files/u149_normal.png');
+}
+
+.u204_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:30px;
+}
+
+#u204_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u205 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u206_normal {
+    background-image: url('../店内流量动态_files/u151_normal.png');
+}
+
+.u206_container {
+    position:absolute;
+    left:100px;
+    top:0px;
+    width:220px;
+    height:30px;
+}
+
+#u206_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:36px;
+}
+
+.u207 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:216px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u208_normal {
+    background-image: url('../店内流量动态_files/u151_normal.png');
+}
+
+.u208_container {
+    position:absolute;
+    left:320px;
+    top:0px;
+    width:220px;
+    height:30px;
+}
+
+#u208_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:36px;
+}
+
+.u209 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:216px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u210_normal {
+    background-image: url('../店内流量动态_files/u151_normal.png');
+}
+
+.u210_container {
+    position:absolute;
+    left:540px;
+    top:0px;
+    width:220px;
+    height:30px;
+}
+
+#u210_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:36px;
+}
+
+.u211 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:216px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u212_normal {
+    background-image: url('../店内流量动态_files/u212_normal.png');
+}
+
+.u212_container {
+    position:absolute;
+    left:760px;
+    top:0px;
+    width:223px;
+    height:30px;
+}
+
+#u212_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:229px;
+    height:36px;
+}
+
+.u213 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:219px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u214_normal {
+    background-image: url('../店内流量动态_files/u214_normal.png');
+}
+
+.u214_container {
+    position:absolute;
+    left:0px;
+    top:30px;
+    width:100px;
+    height:44px;
+}
+
+#u214_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:50px;
+}
+
+.u215 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:40px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u216_normal {
+    background-image: url('../店内流量动态_files/u216_normal.png');
+}
+
+.u216_container {
+    position:absolute;
+    left:100px;
+    top:30px;
+    width:220px;
+    height:44px;
+}
+
+#u216_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:50px;
+}
+
+.u217 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:216px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u218_normal {
+    background-image: url('../店内流量动态_files/u216_normal.png');
+}
+
+.u218_container {
+    position:absolute;
+    left:320px;
+    top:30px;
+    width:220px;
+    height:44px;
+}
+
+#u218_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:50px;
+}
+
+.u219 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:216px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u220_normal {
+    background-image: url('../店内流量动态_files/u216_normal.png');
+}
+
+.u220_container {
+    position:absolute;
+    left:540px;
+    top:30px;
+    width:220px;
+    height:44px;
+}
+
+#u220_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:50px;
+}
+
+.u221 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u222_normal {
+    background-image: url('../店内流量动态_files/u222_normal.png');
+}
+
+.u222_container {
+    position:absolute;
+    left:760px;
+    top:30px;
+    width:223px;
+    height:44px;
+}
+
+#u222_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:229px;
+    height:50px;
+}
+
+.u223 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:219px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u224_normal {
+    background-image: url('../店内流量动态_files/u149_normal.png');
+}
+
+.u224_container {
+    position:absolute;
+    left:0px;
+    top:74px;
+    width:100px;
+    height:30px;
+}
+
+#u224_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u225 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u226_normal {
+    background-image: url('../店内流量动态_files/u151_normal.png');
+}
+
+.u226_container {
+    position:absolute;
+    left:100px;
+    top:74px;
+    width:220px;
+    height:30px;
+}
+
+#u226_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:36px;
+}
+
+.u227 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:216px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u228_normal {
+    background-image: url('../店内流量动态_files/u151_normal.png');
+}
+
+.u228_container {
+    position:absolute;
+    left:320px;
+    top:74px;
+    width:220px;
+    height:30px;
+}
+
+#u228_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:36px;
+}
+
+.u229 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:216px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u230_normal {
+    background-image: url('../店内流量动态_files/u151_normal.png');
+}
+
+.u230_container {
+    position:absolute;
+    left:540px;
+    top:74px;
+    width:220px;
+    height:30px;
+}
+
+#u230_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:36px;
+}
+
+.u231 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u232_normal {
+    background-image: url('../店内流量动态_files/u212_normal.png');
+}
+
+.u232_container {
+    position:absolute;
+    left:760px;
+    top:74px;
+    width:223px;
+    height:30px;
+}
+
+#u232_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:229px;
+    height:36px;
+}
+
+.u233 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:219px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u234 {
+    position:absolute;
+    left:135px;
+    top:832px;
+    width:113px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u235_normal {
+    background-image: url('../店内流量动态_files/u7_normal.png');
+}
+
+.u235_container {
+    position:absolute;
+    left:145px;
+    top:1px;
+    width:125px;
+    height:40px;
+}
+
+#u235_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:46px;
+}
+
+.u236 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:121px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u237_normal {
+    background-image: url('../店内流量动态_files/u15_normal.png');
+}
+
+.u237_container {
+    position:absolute;
+    left:136px;
+    top:238px;
+    width:90px;
+    height:30px;
+}
+
+#u237_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:36px;
+}
+
+.u238 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:86px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u239_normal {
+    background-image: url('../店内流量动态_files/u11_normal.png');
+}
+
+.u239_container {
+    position:absolute;
+    left:226px;
+    top:238px;
+    width:90px;
+    height:30px;
+}
+
+#u239_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:36px;
+}
+
+.u240 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:86px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u241_normal {
+    background-image: url('../店内流量动态_files/u11_normal.png');
+}
+
+.u241_container {
+    position:absolute;
+    left:316px;
+    top:238px;
+    width:90px;
+    height:30px;
+}
+
+#u241_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:36px;
+}
+
+.u242 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:86px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u243_normal {
+    background-image: url('../店内流量动态_files/u243_normal.png');
+}
+
+.u243_container {
+    position:absolute;
+    left:413px;
+    top:860px;
+    width:199px;
+    height:178px;
+}
+
+#u243_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:199px;
+    height:178px;
+}
+
+.u244 {
+    position:absolute;
+    left:2px;
+    top:81px;
+    width:195px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u245_normal {
+    background-image: url('../店内流量动态_files/u171_normal.png');
+}
+
+.u245_container {
+    position:absolute;
+    left:589px;
+    top:860px;
+    width:49px;
+    height:303px;
+}
+
+#u245_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:49px;
+    height:303px;
+}
+
+.u246 {
+    position:absolute;
+    left:2px;
+    top:144px;
+    width:45px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u247_normal {
+    background-image: url('../店内流量动态_files/u173_normal.png');
+}
+
+.u247_container {
+    position:absolute;
+    left:620px;
+    top:860px;
+    width:361px;
+    height:303px;
+}
+
+#u247_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:361px;
+    height:303px;
+}
+
+.u248 {
+    position:absolute;
+    left:2px;
+    top:144px;
+    width:357px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u249_normal {
+    background-image: url('../店内流量动态_files/u175_normal.png');
+}
+
+.u249_container {
+    position:absolute;
+    left:381px;
+    top:860px;
+    width:50px;
+    height:303px;
+}
+
+#u249_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:303px;
+}
+
+.u250 {
+    position:absolute;
+    left:2px;
+    top:144px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u251_normal {
+    background-image: url('../店内流量动态_files/u22_normal.png');
+}
+
+.u251_container {
+    position:absolute;
+    left:11px;
+    top:51px;
+    width:24px;
+    height:26px;
+}
+
+#u251_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:26px;
+}
+
+.u252 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u253 {
+    position:absolute;
+    left:32px;
+    top:54px;
+    width:180px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u254_normal {
+    background-image: url('../店内流量动态_files/u22_normal.png');
+}
+
+.u254_container {
+    position:absolute;
+    left:11px;
+    top:240px;
+    width:24px;
+    height:26px;
+}
+
+#u254_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:26px;
+}
+
+.u255 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u256 {
+    position:absolute;
+    left:32px;
+    top:243px;
+    width:180px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u257_normal {
+    background-image: url('../店内流量动态_files/u257_normal.png');
+}
+
+.u257_container {
+    position:absolute;
+    left:22px;
+    top:463px;
+    width:863px;
+    height:51px;
+}
+
+#u257_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:863px;
+    height:51px;
+}
+
+.u258 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:859px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u259_normal {
+    background-image: url('../店内流量动态_files/u259_normal.png');
+}
+
+.u259_container {
+    position:absolute;
+    left:22px;
+    top:514px;
+    width:946px;
+    height:224px;
+}
+
+#u259_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:946px;
+    height:224px;
+}
+
+.u260 {
+    position:absolute;
+    left:2px;
+    top:104px;
+    width:942px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u261_normal {
+    background-image: url('../店内流量动态_files/u261_normal.png');
+}
+
+.u261_container {
+    position:absolute;
+    left:61px;
+    top:739px;
+    width:897px;
+    height:65px;
+}
+
+#u261_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:897px;
+    height:65px;
+}
+
+.u262 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:893px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u263 {
+    position:absolute;
+    left:22px;
+    top:763px;
+    width:962px;
+    height:46px;
+    overflow:hidden;
+}
+
+#pd0u263 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:962px;
+    height:46px;
+    
+}
+
+#u264 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:405px;
+    height:45px
+}
+
+.u265_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u265_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:40px;
+    height:20px;
+}
+
+#u265_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u266 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u267_normal {
+    background-image: url('../店内流量动态_files/u267_normal.png');
+}
+
+.u267_container {
+    position:absolute;
+    left:40px;
+    top:0px;
+    width:35px;
+    height:20px;
+}
+
+#u267_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+.u268 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:31px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u269_normal {
+    background-image: url('../店内流量动态_files/u267_normal.png');
+}
+
+.u269_container {
+    position:absolute;
+    left:75px;
+    top:0px;
+    width:35px;
+    height:20px;
+}
+
+#u269_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+.u270 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:31px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u271_normal {
+    background-image: url('../店内流量动态_files/u267_normal.png');
+}
+
+.u271_container {
+    position:absolute;
+    left:110px;
+    top:0px;
+    width:35px;
+    height:20px;
+}
+
+#u271_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+.u272 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:31px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u273_normal {
+    background-image: url('../店内流量动态_files/u267_normal.png');
+}
+
+.u273_container {
+    position:absolute;
+    left:145px;
+    top:0px;
+    width:35px;
+    height:20px;
+}
+
+#u273_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+.u274 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:31px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u275_normal {
+    background-image: url('../店内流量动态_files/u267_normal.png');
+}
+
+.u275_container {
+    position:absolute;
+    left:180px;
+    top:0px;
+    width:35px;
+    height:20px;
+}
+
+#u275_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+.u276 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:31px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u277_normal {
+    background-image: url('../店内流量动态_files/u267_normal.png');
+}
+
+.u277_container {
+    position:absolute;
+    left:215px;
+    top:0px;
+    width:35px;
+    height:20px;
+}
+
+#u277_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+.u278 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:31px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u279_normal {
+    background-image: url('../店内流量动态_files/u267_normal.png');
+}
+
+.u279_container {
+    position:absolute;
+    left:250px;
+    top:0px;
+    width:35px;
+    height:20px;
+}
+
+#u279_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+.u280 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:31px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u281_normal {
+    background-image: url('../店内流量动态_files/u267_normal.png');
+}
+
+.u281_container {
+    position:absolute;
+    left:285px;
+    top:0px;
+    width:35px;
+    height:20px;
+}
+
+#u281_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+.u282 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:31px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u283_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u283_container {
+    position:absolute;
+    left:320px;
+    top:0px;
+    width:40px;
+    height:20px;
+}
+
+#u283_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u284 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u285_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u285_container {
+    position:absolute;
+    left:360px;
+    top:0px;
+    width:40px;
+    height:20px;
+}
+
+#u285_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u286 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u287_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u287_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:40px;
+    height:20px;
+}
+
+#u287_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u288 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u289_normal {
+    background-image: url('../店内流量动态_files/u267_normal.png');
+}
+
+.u289_container {
+    position:absolute;
+    left:40px;
+    top:20px;
+    width:35px;
+    height:20px;
+}
+
+#u289_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+.u290 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:31px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u291_normal {
+    background-image: url('../店内流量动态_files/u267_normal.png');
+}
+
+.u291_container {
+    position:absolute;
+    left:75px;
+    top:20px;
+    width:35px;
+    height:20px;
+}
+
+#u291_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+.u292 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:31px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u293_normal {
+    background-image: url('../店内流量动态_files/u267_normal.png');
+}
+
+.u293_container {
+    position:absolute;
+    left:110px;
+    top:20px;
+    width:35px;
+    height:20px;
+}
+
+#u293_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+.u294 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:31px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u295_normal {
+    background-image: url('../店内流量动态_files/u267_normal.png');
+}
+
+.u295_container {
+    position:absolute;
+    left:145px;
+    top:20px;
+    width:35px;
+    height:20px;
+}
+
+#u295_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+.u296 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:31px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u297_normal {
+    background-image: url('../店内流量动态_files/u267_normal.png');
+}
+
+.u297_container {
+    position:absolute;
+    left:180px;
+    top:20px;
+    width:35px;
+    height:20px;
+}
+
+#u297_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+.u298 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:31px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u299_normal {
+    background-image: url('../店内流量动态_files/u267_normal.png');
+}
+
+.u299_container {
+    position:absolute;
+    left:215px;
+    top:20px;
+    width:35px;
+    height:20px;
+}
+
+#u299_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+.u300 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:31px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u301_normal {
+    background-image: url('../店内流量动态_files/u267_normal.png');
+}
+
+.u301_container {
+    position:absolute;
+    left:250px;
+    top:20px;
+    width:35px;
+    height:20px;
+}
+
+#u301_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+.u302 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:31px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u303_normal {
+    background-image: url('../店内流量动态_files/u267_normal.png');
+}
+
+.u303_container {
+    position:absolute;
+    left:285px;
+    top:20px;
+    width:35px;
+    height:20px;
+}
+
+#u303_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+.u304 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:31px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u305_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u305_container {
+    position:absolute;
+    left:320px;
+    top:20px;
+    width:40px;
+    height:20px;
+}
+
+#u305_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u306 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u307_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u307_container {
+    position:absolute;
+    left:360px;
+    top:20px;
+    width:40px;
+    height:20px;
+}
+
+#u307_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u308 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u309 {
+    position:absolute;
+    left:400px;
+    top:0px;
+    width:405px;
+    height:45px
+}
+
+.u310_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u310_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:40px;
+    height:20px;
+}
+
+#u310_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u311 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u312_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u312_container {
+    position:absolute;
+    left:40px;
+    top:0px;
+    width:40px;
+    height:20px;
+}
+
+#u312_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u313 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u314_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u314_container {
+    position:absolute;
+    left:80px;
+    top:0px;
+    width:40px;
+    height:20px;
+}
+
+#u314_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u315 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u316_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u316_container {
+    position:absolute;
+    left:120px;
+    top:0px;
+    width:40px;
+    height:20px;
+}
+
+#u316_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u317 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u318_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u318_container {
+    position:absolute;
+    left:160px;
+    top:0px;
+    width:40px;
+    height:20px;
+}
+
+#u318_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u319 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u320_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u320_container {
+    position:absolute;
+    left:200px;
+    top:0px;
+    width:40px;
+    height:20px;
+}
+
+#u320_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u321 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u322_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u322_container {
+    position:absolute;
+    left:240px;
+    top:0px;
+    width:40px;
+    height:20px;
+}
+
+#u322_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u323 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u324_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u324_container {
+    position:absolute;
+    left:280px;
+    top:0px;
+    width:40px;
+    height:20px;
+}
+
+#u324_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u325 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u326_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u326_container {
+    position:absolute;
+    left:320px;
+    top:0px;
+    width:40px;
+    height:20px;
+}
+
+#u326_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u327 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u328_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u328_container {
+    position:absolute;
+    left:360px;
+    top:0px;
+    width:40px;
+    height:20px;
+}
+
+#u328_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u329 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u330_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u330_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:40px;
+    height:20px;
+}
+
+#u330_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u331 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u332_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u332_container {
+    position:absolute;
+    left:40px;
+    top:20px;
+    width:40px;
+    height:20px;
+}
+
+#u332_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u333 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u334_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u334_container {
+    position:absolute;
+    left:80px;
+    top:20px;
+    width:40px;
+    height:20px;
+}
+
+#u334_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u335 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u336_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u336_container {
+    position:absolute;
+    left:120px;
+    top:20px;
+    width:40px;
+    height:20px;
+}
+
+#u336_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u337 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u338_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u338_container {
+    position:absolute;
+    left:160px;
+    top:20px;
+    width:40px;
+    height:20px;
+}
+
+#u338_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u339 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u340_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u340_container {
+    position:absolute;
+    left:200px;
+    top:20px;
+    width:40px;
+    height:20px;
+}
+
+#u340_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u341 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u342_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u342_container {
+    position:absolute;
+    left:240px;
+    top:20px;
+    width:40px;
+    height:20px;
+}
+
+#u342_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u343 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u344_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u344_container {
+    position:absolute;
+    left:280px;
+    top:20px;
+    width:40px;
+    height:20px;
+}
+
+#u344_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u345 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u346_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u346_container {
+    position:absolute;
+    left:320px;
+    top:20px;
+    width:40px;
+    height:20px;
+}
+
+#u346_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u347 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u348_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u348_container {
+    position:absolute;
+    left:360px;
+    top:20px;
+    width:40px;
+    height:20px;
+}
+
+#u348_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u349 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u350 {
+    position:absolute;
+    left:800px;
+    top:0px;
+    width:155px;
+    height:45px
+}
+
+.u351_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u351_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:40px;
+    height:20px;
+}
+
+#u351_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u352 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u353_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u353_container {
+    position:absolute;
+    left:40px;
+    top:0px;
+    width:40px;
+    height:20px;
+}
+
+#u353_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u354 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u355_normal {
+    background-image: url('../店内流量动态_files/u267_normal.png');
+}
+
+.u355_container {
+    position:absolute;
+    left:80px;
+    top:0px;
+    width:35px;
+    height:20px;
+}
+
+#u355_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+.u356 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:31px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u357_normal {
+    background-image: url('../店内流量动态_files/u267_normal.png');
+}
+
+.u357_container {
+    position:absolute;
+    left:115px;
+    top:0px;
+    width:35px;
+    height:20px;
+}
+
+#u357_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+.u358 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:31px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u359_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u359_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:40px;
+    height:20px;
+}
+
+#u359_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u360 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u361_normal {
+    background-image: url('../店内流量动态_files/u265_normal.png');
+}
+
+.u361_container {
+    position:absolute;
+    left:40px;
+    top:20px;
+    width:40px;
+    height:20px;
+}
+
+#u361_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u362 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u363_normal {
+    background-image: url('../店内流量动态_files/u267_normal.png');
+}
+
+.u363_container {
+    position:absolute;
+    left:80px;
+    top:20px;
+    width:35px;
+    height:20px;
+}
+
+#u363_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+.u364 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:31px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u365_normal {
+    background-image: url('../店内流量动态_files/u267_normal.png');
+}
+
+.u365_container {
+    position:absolute;
+    left:115px;
+    top:20px;
+    width:35px;
+    height:20px;
+}
+
+#u365_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:41px;
+    height:26px;
+}
+
+.u366 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:31px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u368 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u370 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u372 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u374 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u375 {
+    position:absolute;
+    left:350px;
+    top:490px;
+    width:200px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u376_normal {
+    background-image: url('../店内流量动态_files/u92_normal.png');
+}
+
+.u376_container {
+    position:absolute;
+    left:926px;
+    top:486px;
+    width:60px;
+    height:25px;
+}
+
+#u376_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:31px;
+}
+
+.u377 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u378_normal {
+    background-image: url('../店内流量动态_files/u186_normal.png');
+}
+
+.u378_container {
+    position:absolute;
+    left:24px;
+    top:858px;
+    width:347px;
+    height:286px;
+}
+
+#u378_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:347px;
+    height:286px;
+}
+
+.u379 {
+    position:absolute;
+    left:2px;
+    top:135px;
+    width:343px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u380_normal {
+    background-image: url('../店内流量动态_files/u380_normal.png');
+}
+
+.u380_container {
+    position:absolute;
+    left:11px;
+    top:87px;
+    width:992px;
+    height:124px;
+}
+
+#u380_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:992px;
+    height:124px;
+}
+
+.u381 {
+    position:absolute;
+    left:2px;
+    top:54px;
+    width:988px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u382 {
+    position:absolute;
+    left:32px;
+    top:451px;
+    width:180px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u383_normal {
+    background-image: url('../店内流量动态_files/u383_normal.png');
+}
+
+.u383_container {
+    position:absolute;
+    left:32px;
+    top:926px;
+    width:113px;
+    height:20px;
+}
+
+#u383_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:119px;
+    height:26px;
+}
+
+.u384 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:109px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u385_normal {
+    background-image: url('../店内流量动态_files/u383_normal.png');
+}
+
+.u385_container {
+    position:absolute;
+    left:32px;
+    top:959px;
+    width:113px;
+    height:20px;
+}
+
+#u385_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:119px;
+    height:26px;
+}
+
+.u386 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:109px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u387_normal {
+    background-image: url('../店内流量动态_files/u383_normal.png');
+}
+
+.u387_container {
+    position:absolute;
+    left:32px;
+    top:991px;
+    width:113px;
+    height:20px;
+}
+
+#u387_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:119px;
+    height:26px;
+}
+
+.u388 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:109px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u389_normal {
+    background-image: url('../店内流量动态_files/u383_normal.png');
+}
+
+.u389_container {
+    position:absolute;
+    left:32px;
+    top:1021px;
+    width:113px;
+    height:20px;
+}
+
+#u389_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:119px;
+    height:26px;
+}
+
+.u390 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:109px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u391_normal {
+    background-image: url('../店内流量动态_files/u383_normal.png');
+}
+
+.u391_container {
+    position:absolute;
+    left:32px;
+    top:1053px;
+    width:113px;
+    height:20px;
+}
+
+#u391_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:119px;
+    height:26px;
+}
+
+.u392 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:109px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u393_normal {
+    background-image: url('../店内流量动态_files/u383_normal.png');
+}
+
+.u393_container {
+    position:absolute;
+    left:32px;
+    top:1112px;
+    width:113px;
+    height:20px;
+}
+
+#u393_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:119px;
+    height:26px;
+}
+
+.u394 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:109px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u395_normal {
+    background-image: url('../店内流量动态_files/u395_normal.png');
+}
+
+.u395_container {
+    position:absolute;
+    left:638px;
+    top:909px;
+    width:113px;
+    height:20px;
+}
+
+#u395_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:119px;
+    height:26px;
+}
+
+.u396 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:109px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u397 {
+    position:absolute;
+    left:630px;
+    top:1122px;
+    width:345px;
+    height:33px
+}
+
+.u398_normal {
+    background-image: url('../店内流量动态_files/u398_normal.png');
+}
+
+.u398_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:154px;
+    height:28px;
+}
+
+#u398_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:160px;
+    height:34px;
+}
+
+.u399 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:150px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u400_normal {
+    background-image: url('../店内流量动态_files/u400_normal.png');
+}
+
+.u400_container {
+    position:absolute;
+    left:154px;
+    top:0px;
+    width:100px;
+    height:28px;
+}
+
+#u400_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:34px;
+}
+
+.u401 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u402_normal {
+    background-image: url('../店内流量动态_files/u402_normal.png');
+}
+
+.u402_container {
+    position:absolute;
+    left:254px;
+    top:0px;
+    width:86px;
+    height:28px;
+}
+
+#u402_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:34px;
+}
+
+.u403 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:82px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u404 {
+    position:absolute;
+    left:300px;
+    top:170px;
+    width:180px;
+    height:40px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u405_normal {
+    background-image: url('../店内流量动态_files/u405_normal.png');
+}
+
+.u405_container {
+    position:absolute;
+    left:689px;
+    top:177px;
+    width:60px;
+    height:25px;
+}
+
+#u405_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:31px;
+}
+
+.u406 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:56px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u407 {
+    position:absolute;
+    left:445px;
+    top:179px;
+    width:334px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u408_normal {
+    background-image: url('../店内流量动态_files/u408_normal.png');
+}
+
+.u408_container {
+    position:absolute;
+    left:426px;
+    top:182px;
+    width:15px;
+    height:15px;
+}
+
+#u408_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:21px;
+    height:21px;
+}
+
+.u409 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:11px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u410_normal {
+    background-image: url('../店内流量动态_files/u410_normal.png');
+}
+
+.u410_container {
+    position:absolute;
+    left:432px;
+    top:186px;
+    width:1px;
+    height:3px;
+}
+
+#u410_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:7px;
+    height:9px;
+}
+
+.u411 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u412_normal {
+    background-image: url('../店内流量动态_files/u412_normal.png');
+}
+
+.u412_container {
+    position:absolute;
+    left:433px;
+    top:190px;
+    width:5px;
+    height:1px;
+}
+
+#u412_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:11px;
+    height:7px;
+}
+
+.u413 {
+    position:absolute;
+    left:2px;
+    top:-8px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u414_normal {
+    background-image: url('../M-头部_files/u0_normal.png');
+}
+
+.u414_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1400px;
+    height:70px;
+}
+
+#u414_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1406px;
+    height:76px;
+}
+
+.u415 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:1396px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u416_normal {
+    background-image: url('../M-头部_files/u2_normal.png');
+}
+
+.u416_container {
+    position:absolute;
+    left:100px;
+    top:10px;
+    width:210px;
+    height:44px;
+}
+
+#u416_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:210px;
+    height:44px;
+}
+
+.u417 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:206px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u418 {
+    position:absolute;
+    left:320px;
+    top:12px;
+    width:300px;
+    height:40px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u419 {
+    position:absolute;
+    left:829px;
+    top:12px;
+    width:471px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u420_normal {
+    background-image: url('../M-头部_files/u6_normal.png');
+}
+
+.u420_container {
+    position:absolute;
+    left:0px;
+    top:70px;
+    width:1400px;
+    height:40px;
+}
+
+#u420_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1406px;
+    height:46px;
+}
+
+.u421 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:1396px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u422_mouseOver {
+    background-image: url('../M-头部_files/商城导航_u8_mouseOver.png');
+}
+
+.u422_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u422_container {
+    position:absolute;
+    left:300px;
+    top:70px;
+    width:100px;
+    height:40px;
+}
+
+#u422_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:46px;
+}
+
+.u423 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u424_mouseOver {
+    background-image: url('../M-头部_files/商城导航_u8_mouseOver.png');
+}
+
+.u424_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u424_container {
+    position:absolute;
+    left:190px;
+    top:70px;
+    width:100px;
+    height:40px;
+}
+
+#u424_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:46px;
+}
+
+.u425 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u426_mouseOver {
+    background-image: url('../M-头部_files/商城导航_u8_mouseOver.png');
+}
+
+.u426_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u426_container {
+    position:absolute;
+    left:410px;
+    top:70px;
+    width:100px;
+    height:40px;
+}
+
+#u426_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:46px;
+}
+
+.u427 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u428_mouseOver {
+    background-image: url('../M-头部_files/淘宝_天猫精品_u14_mouseOver.png');
+}
+
+.u428_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u428_container {
+    position:absolute;
+    left:100px;
+    top:70px;
+    width:80px;
+    height:40px;
+}
+
+#u428_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:46px;
+}
+
+.u429 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:76px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u430_mouseOver {
+    background-image: url('../M-头部_files/商城导航_u8_mouseOver.png');
+}
+
+.u430_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u430_container {
+    position:absolute;
+    left:629px;
+    top:70px;
+    width:100px;
+    height:40px;
+}
+
+#u430_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:46px;
+}
+
+.u431 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u432_mouseOver {
+    background-image: url('../M-头部_files/商城导航_u8_mouseOver.png');
+}
+
+.u432_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u432_container {
+    position:absolute;
+    left:520px;
+    top:70px;
+    width:100px;
+    height:40px;
+}
+
+#u432_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:46px;
+}
+
+.u433 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u434_mouseOver {
+    background-image: url('../M-头部_files/商城导航_u8_mouseOver.png');
+}
+
+.u434_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u434_container {
+    position:absolute;
+    left:849px;
+    top:70px;
+    width:100px;
+    height:40px;
+}
+
+#u434_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:46px;
+}
+
+.u435 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u436_mouseOver {
+    background-image: url('../M-头部_files/商城导航_u8_mouseOver.png');
+}
+
+.u436_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u436_container {
+    position:absolute;
+    left:959px;
+    top:70px;
+    width:100px;
+    height:40px;
+}
+
+#u436_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:46px;
+}
+
+.u437 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u438_mouseOver {
+    background-image: url('../M-头部_files/商城导航_u8_mouseOver.png');
+}
+
+.u438_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u438_container {
+    position:absolute;
+    left:1069px;
+    top:70px;
+    width:100px;
+    height:40px;
+}
+
+#u438_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:46px;
+}
+
+.u439 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u440_mouseOver {
+    background-image: url('../M-头部_files/商城导航_u8_mouseOver.png');
+}
+
+.u440_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u440_container {
+    position:absolute;
+    left:739px;
+    top:70px;
+    width:100px;
+    height:40px;
+}
+
+#u440_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:46px;
+}
+
+.u441 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u443_normal {
+    background-image: url('../M-面包屑_files/u69_normal.png');
+}
+
+.u443_container {
+    position:absolute;
+    left:281px;
+    top:120px;
+    width:1020px;
+    height:30px;
+}
+
+#u443_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1026px;
+    height:36px;
+}
+
+.u444 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:1016px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u445 {
+    position:absolute;
+    left:299px;
+    top:120px;
+    width:527px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u447_normal {
+    background-image: url('../店内流量动态_files/u405_normal.png');
+}
+
+.u447_container {
+    position:absolute;
+    left:689px;
+    top:177px;
+    width:60px;
+    height:25px;
+}
+
+#u447_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:31px;
+}
+
+.u448 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:56px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u449 {
+    position:absolute;
+    left:445px;
+    top:179px;
+    width:349px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u450_normal {
+    background-image: url('../店内流量动态_files/u408_normal.png');
+}
+
+.u450_container {
+    position:absolute;
+    left:426px;
+    top:182px;
+    width:15px;
+    height:15px;
+}
+
+#u450_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:21px;
+    height:21px;
+}
+
+.u451 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:11px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u452_normal {
+    background-image: url('../店内流量动态_files/u410_normal.png');
+}
+
+.u452_container {
+    position:absolute;
+    left:432px;
+    top:186px;
+    width:1px;
+    height:3px;
+}
+
+#u452_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:7px;
+    height:9px;
+}
+
+.u453 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u454_normal {
+    background-image: url('../店内流量动态_files/u412_normal.png');
+}
+
+.u454_container {
+    position:absolute;
+    left:433px;
+    top:190px;
+    width:5px;
+    height:1px;
+}
+
+#u454_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:11px;
+    height:7px;
+}
+
+.u455 {
+    position:absolute;
+    left:2px;
+    top:-8px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u456_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u29_normal.png');
+}
+
+.u456_container {
+    position:absolute;
+    left:100px;
+    top:120px;
+    width:180px;
+    height:912px;
+}
+
+#u456_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:918px;
+}
+
+.u457 {
+    position:absolute;
+    left:2px;
+    top:448px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u458_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u31_mouseOver.png');
+}
+
+.u458_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u31_normal.png');
+}
+
+.u458_container {
+    position:absolute;
+    left:100px;
+    top:120px;
+    width:180px;
+    height:40px;
+}
+
+#u458_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u459 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u460_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u31_mouseOver.png');
+}
+
+.u460_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u31_normal.png');
+}
+
+.u460_container {
+    position:absolute;
+    left:99px;
+    top:593px;
+    width:180px;
+    height:40px;
+}
+
+#u460_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u461 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u462_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u31_mouseOver.png');
+}
+
+.u462_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u31_normal.png');
+}
+
+.u462_container {
+    position:absolute;
+    left:99px;
+    top:513px;
+    width:180px;
+    height:40px;
+}
+
+#u462_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u463 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u464_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u31_mouseOver.png');
+}
+
+.u464_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u31_normal.png');
+}
+
+.u464_container {
+    position:absolute;
+    left:99px;
+    top:473px;
+    width:180px;
+    height:40px;
+}
+
+#u464_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u465 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u466_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u31_mouseOver.png');
+}
+
+.u466_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u31_normal.png');
+}
+
+.u466_container {
+    position:absolute;
+    left:100px;
+    top:160px;
+    width:180px;
+    height:40px;
+}
+
+#u466_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u467 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u468_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u31_mouseOver.png');
+}
+
+.u468_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u31_normal.png');
+}
+
+.u468_container {
+    position:absolute;
+    left:99px;
+    top:393px;
+    width:180px;
+    height:40px;
+}
+
+#u468_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u469 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u470_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u31_mouseOver.png');
+}
+
+.u470_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u31_normal.png');
+}
+
+.u470_container {
+    position:absolute;
+    left:99px;
+    top:553px;
+    width:180px;
+    height:40px;
+}
+
+#u470_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u471 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u472_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u31_mouseOver.png');
+}
+
+.u472_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u31_normal.png');
+}
+
+.u472_container {
+    position:absolute;
+    left:99px;
+    top:433px;
+    width:180px;
+    height:40px;
+}
+
+#u472_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u473 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u474_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u31_mouseOver.png');
+}
+
+.u474_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u31_normal.png');
+}
+
+.u474_container {
+    position:absolute;
+    left:99px;
+    top:633px;
+    width:180px;
+    height:40px;
+}
+
+#u474_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u475 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u476_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u49_mouseOver.png');
+}
+
+.u476_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u49_mouseOver.png');
+}
+
+.u476_container {
+    position:absolute;
+    left:129px;
+    top:265px;
+    width:150px;
+    height:30px;
+}
+
+#u476_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:36px;
+}
+
+.u477 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:146px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u478_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u49_mouseOver.png');
+}
+
+.u478_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u49_mouseOver.png');
+}
+
+.u478_container {
+    position:absolute;
+    left:129px;
+    top:201px;
+    width:150px;
+    height:30px;
+}
+
+#u478_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:36px;
+}
+
+.u479 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:146px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u480_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u49_mouseOver.png');
+}
+
+.u480_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u49_mouseOver.png');
+}
+
+.u480_container {
+    position:absolute;
+    left:129px;
+    top:297px;
+    width:150px;
+    height:30px;
+}
+
+#u480_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:36px;
+}
+
+.u481 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:146px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u482_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u49_mouseOver.png');
+}
+
+.u482_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u49_mouseOver.png');
+}
+
+.u482_container {
+    position:absolute;
+    left:129px;
+    top:329px;
+    width:150px;
+    height:30px;
+}
+
+#u482_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:36px;
+}
+
+.u483 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:146px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u484_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u49_mouseOver.png');
+}
+
+.u484_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u49_mouseOver.png');
+}
+
+.u484_container {
+    position:absolute;
+    left:129px;
+    top:361px;
+    width:150px;
+    height:30px;
+}
+
+#u484_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:36px;
+}
+
+.u485 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:146px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u486_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u49_mouseOver.png');
+}
+
+.u486_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u49_mouseOver.png');
+}
+
+.u486_container {
+    position:absolute;
+    left:129px;
+    top:233px;
+    width:150px;
+    height:30px;
+}
+
+#u486_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:36px;
+}
+
+.u487 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:146px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u488_mouseOver {
+    background-image: url('../M-左侧导航-流量分析_files/u31_mouseOver.png');
+}
+
+.u488_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u31_normal.png');
+}
+
+.u488_container {
+    position:absolute;
+    left:99px;
+    top:673px;
+    width:180px;
+    height:40px;
+}
+
+#u488_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u489 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u490_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u63_normal.png');
+}
+
+.u490_container {
+    position:absolute;
+    left:268px;
+    top:121px;
+    width:11px;
+    height:911px;
+}
+
+#u490_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:17px;
+    height:917px;
+}
+
+.u491 {
+    position:absolute;
+    left:2px;
+    top:448px;
+    width:7px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u492_normal {
+    background-image: url('../M-左侧导航-流量分析_files/u65_normal.png');
+}
+
+.u492_container {
+    position:absolute;
+    left:268px;
+    top:267px;
+    width:11px;
+    height:224px;
+}
+
+#u492_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:17px;
+    height:230px;
+}
+
+.u493 {
+    position:absolute;
+    left:2px;
+    top:104px;
+    width:7px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u494 {
+    position:absolute;
+    left:268px;
+    top:361px;
+    width:37px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u496_mouseOver {
+    background-image: url('../店内流量动态_files/u496_mouseOver.png');
+}
+
+.u496_normal {
+    background-image: url('../店内流量动态_files/u496_mouseOver.png');
+}
+
+.u496_container {
+    position:absolute;
+    left:130px;
+    top:298px;
+    width:136px;
+    height:30px;
+}
+
+#u496_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:142px;
+    height:36px;
+}
+
+.u497 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:132px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u498_line {
+    background-image: url('../店内流量动态_files/u498_line.png');
+}
+
+.u498_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:25px;
+}
+
+.u498 {
+    position:absolute;
+    left:904px;
+    top:176px;
+    width:10px;
+    height:25px;
+    
+}
+
+.u499_normal {
+    background-image: url('../店内流量动态_files/u499_normal.png');
+}
+
+.u499_container {
+    position:absolute;
+    left:921px;
+    top:176px;
+    width:126px;
+    height:25px;
+}
+
+#u499_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:132px;
+    height:31px;
+}
+
+.u500 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:122px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u501_normal {
+    background-image: url('../店内流量动态_files/u501_normal.png');
+}
+
+.u501_container {
+    position:absolute;
+    left:920px;
+    top:178px;
+    width:26px;
+    height:25px;
+}
+
+#u501_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:25px;
+}
+
+.u502 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u503_normal {
+    background-image: url('../店内流量动态_files/u405_normal.png');
+}
+
+.u503_container {
+    position:absolute;
+    left:759px;
+    top:177px;
+    width:60px;
+    height:25px;
+}
+
+#u503_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:31px;
+}
+
+.u504 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:56px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u505_normal {
+    background-image: url('../店内流量动态_files/u505_normal.png');
+}
+
+.u505_container {
+    position:absolute;
+    left:829px;
+    top:177px;
+    width:70px;
+    height:25px;
+}
+
+#u505_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:31px;
+}
+
+.u506 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:66px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u507 {
+    position:absolute;
+    left:867px;
+    top:203px;
+    width:559px;
+    height:321px;
+    overflow:hidden;
+}
+
+#pd0u507 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:559px;
+    height:321px;
+    
+}
+
+.u508_normal {
+    background-image: url('../店内流量动态_files/u508_normal.png');
+}
+
+.u508_container {
+    position:absolute;
+    left:5px;
+    top:29px;
+    width:507px;
+    height:274px;
+}
+
+#u508_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:513px;
+    height:280px;
+}
+
+.u509 {
+    position:absolute;
+    left:2px;
+    top:129px;
+    width:503px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u510_normal {
+    background-image: url('../店内流量动态_files/u510_normal.png');
+}
+
+.u510_container {
+    position:absolute;
+    left:23px;
+    top:31px;
+    width:247px;
+    height:270px;
+}
+
+#u510_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:247px;
+    height:270px;
+}
+
+.u511 {
+    position:absolute;
+    left:2px;
+    top:127px;
+    width:243px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u512_normal {
+    background-image: url('../店内流量动态_files/u512_normal.png');
+}
+
+.u512_container {
+    position:absolute;
+    left:270px;
+    top:257px;
+    width:242px;
+    height:43px;
+}
+
+#u512_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:242px;
+    height:43px;
+}
+
+.u513 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:238px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u514_normal {
+    background-image: url('../店内流量动态_files/u514_normal.png');
+}
+
+.u514_container {
+    position:absolute;
+    left:60px;
+    top:0px;
+    width:74px;
+    height:29px;
+}
+
+#u514_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:35px;
+}
+
+.u515 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:70px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u516_normal {
+    background-image: url('../店内流量动态_files/u516_normal.png');
+}
+
+.u516_container {
+    position:absolute;
+    left:134px;
+    top:0px;
+    width:74px;
+    height:29px;
+}
+
+#u516_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:35px;
+}
+
+.u517 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:70px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u518 {
+    position:absolute;
+    left:362px;
+    top:262px;
+    width:140px;
+    height:35px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u519_normal {
+    background-image: url('../店内流量动态_files/u519_normal.png');
+}
+
+.u519_container {
+    position:absolute;
+    left:270px;
+    top:35px;
+    width:232px;
+    height:223px;
+}
+
+#u519_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:232px;
+    height:223px;
+}
+
+.u520 {
+    position:absolute;
+    left:2px;
+    top:104px;
+    width:228px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
