@@ -1,0 +1,2462 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../建议收集列表_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:2px;
+    top:84px;
+    width:173px;
+    height:61px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:173px;
+    height:61px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:169px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../建议收集列表_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:2px;
+    top:145px;
+    width:173px;
+    height:721px;
+}
+
+#u2_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:173px;
+    height:721px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:352px;
+    width:169px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../建议收集列表_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:175px;
+    top:84px;
+    width:1610px;
+    height:61px;
+}
+
+#u4_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1610px;
+    height:61px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:1606px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../建议收集列表_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:1785px;
+    top:145px;
+    width:35px;
+    height:721px;
+}
+
+#u6_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:35px;
+    height:721px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:352px;
+    width:31px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../建议收集列表_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:1785px;
+    top:84px;
+    width:35px;
+    height:61px;
+}
+
+#u8_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:35px;
+    height:61px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:31px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../建议收集列表_files/u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:242px;
+    top:84px;
+    width:102px;
+    height:22px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:108px;
+    height:28px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:98px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u12 {
+    position:absolute;
+    left:199px;
+    top:209px;
+    width:973px;
+    height:267px
+}
+
+.u13_normal {
+    background-image: url('../建议收集列表_files/u13_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:58px;
+    height:23px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:64px;
+    height:29px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:54px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../建议收集列表_files/u15_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:58px;
+    top:0px;
+    width:74px;
+    height:23px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:29px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:70px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../建议收集列表_files/u17_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:132px;
+    top:0px;
+    width:369px;
+    height:23px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:375px;
+    height:29px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:365px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../建议收集列表_files/u19_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:501px;
+    top:0px;
+    width:100px;
+    height:23px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../建议收集列表_files/u19_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:601px;
+    top:0px;
+    width:100px;
+    height:23px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../建议收集列表_files/u19_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:701px;
+    top:0px;
+    width:100px;
+    height:23px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../建议收集列表_files/u25_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:801px;
+    top:0px;
+    width:167px;
+    height:23px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:173px;
+    height:29px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:163px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../建议收集列表_files/u27_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:0px;
+    top:23px;
+    width:58px;
+    height:124px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:64px;
+    height:130px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:54px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../建议收集列表_files/u29_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:58px;
+    top:23px;
+    width:74px;
+    height:124px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:130px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:70px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31_normal {
+    background-image: url('../建议收集列表_files/u31_normal.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:132px;
+    top:23px;
+    width:369px;
+    height:124px;
+}
+
+#u31_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:375px;
+    height:130px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:365px;
+    height:120px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_normal {
+    background-image: url('../建议收集列表_files/u33_normal.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:501px;
+    top:23px;
+    width:100px;
+    height:124px;
+}
+
+#u33_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:130px;
+}
+
+.u34 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:38px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35_normal {
+    background-image: url('../建议收集列表_files/u33_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:601px;
+    top:23px;
+    width:100px;
+    height:124px;
+}
+
+#u35_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:130px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37_normal {
+    background-image: url('../建议收集列表_files/u33_normal.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:701px;
+    top:23px;
+    width:100px;
+    height:124px;
+}
+
+#u37_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:130px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39_normal {
+    background-image: url('../建议收集列表_files/u39_normal.png');
+}
+
+.u39_container {
+    position:absolute;
+    left:801px;
+    top:23px;
+    width:167px;
+    height:124px;
+}
+
+#u39_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:173px;
+    height:130px;
+}
+
+.u40 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:163px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41_normal {
+    background-image: url('../建议收集列表_files/u13_normal.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:0px;
+    top:147px;
+    width:58px;
+    height:23px;
+}
+
+#u41_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:64px;
+    height:29px;
+}
+
+.u42 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:54px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43_normal {
+    background-image: url('../建议收集列表_files/u15_normal.png');
+}
+
+.u43_container {
+    position:absolute;
+    left:58px;
+    top:147px;
+    width:74px;
+    height:23px;
+}
+
+#u43_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:29px;
+}
+
+.u44 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:70px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45_normal {
+    background-image: url('../建议收集列表_files/u17_normal.png');
+}
+
+.u45_container {
+    position:absolute;
+    left:132px;
+    top:147px;
+    width:369px;
+    height:23px;
+}
+
+#u45_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:375px;
+    height:29px;
+}
+
+.u46 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:365px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_normal {
+    background-image: url('../建议收集列表_files/u19_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:501px;
+    top:147px;
+    width:100px;
+    height:23px;
+}
+
+#u47_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49_normal {
+    background-image: url('../建议收集列表_files/u19_normal.png');
+}
+
+.u49_container {
+    position:absolute;
+    left:601px;
+    top:147px;
+    width:100px;
+    height:23px;
+}
+
+#u49_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u50 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51_normal {
+    background-image: url('../建议收集列表_files/u19_normal.png');
+}
+
+.u51_container {
+    position:absolute;
+    left:701px;
+    top:147px;
+    width:100px;
+    height:23px;
+}
+
+#u51_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u52 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53_normal {
+    background-image: url('../建议收集列表_files/u25_normal.png');
+}
+
+.u53_container {
+    position:absolute;
+    left:801px;
+    top:147px;
+    width:167px;
+    height:23px;
+}
+
+#u53_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:173px;
+    height:29px;
+}
+
+.u54 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:163px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55_normal {
+    background-image: url('../建议收集列表_files/u13_normal.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:0px;
+    top:170px;
+    width:58px;
+    height:23px;
+}
+
+#u55_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:64px;
+    height:29px;
+}
+
+.u56 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:54px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_normal {
+    background-image: url('../建议收集列表_files/u15_normal.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:58px;
+    top:170px;
+    width:74px;
+    height:23px;
+}
+
+#u57_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:29px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59_normal {
+    background-image: url('../建议收集列表_files/u17_normal.png');
+}
+
+.u59_container {
+    position:absolute;
+    left:132px;
+    top:170px;
+    width:369px;
+    height:23px;
+}
+
+#u59_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:375px;
+    height:29px;
+}
+
+.u60 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:365px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61_normal {
+    background-image: url('../建议收集列表_files/u19_normal.png');
+}
+
+.u61_container {
+    position:absolute;
+    left:501px;
+    top:170px;
+    width:100px;
+    height:23px;
+}
+
+#u61_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u62 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63_normal {
+    background-image: url('../建议收集列表_files/u19_normal.png');
+}
+
+.u63_container {
+    position:absolute;
+    left:601px;
+    top:170px;
+    width:100px;
+    height:23px;
+}
+
+#u63_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u64 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65_normal {
+    background-image: url('../建议收集列表_files/u19_normal.png');
+}
+
+.u65_container {
+    position:absolute;
+    left:701px;
+    top:170px;
+    width:100px;
+    height:23px;
+}
+
+#u65_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67_normal {
+    background-image: url('../建议收集列表_files/u25_normal.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:801px;
+    top:170px;
+    width:167px;
+    height:23px;
+}
+
+#u67_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:173px;
+    height:29px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:163px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_normal {
+    background-image: url('../建议收集列表_files/u13_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:0px;
+    top:193px;
+    width:58px;
+    height:23px;
+}
+
+#u69_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:64px;
+    height:29px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:54px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71_normal {
+    background-image: url('../建议收集列表_files/u15_normal.png');
+}
+
+.u71_container {
+    position:absolute;
+    left:58px;
+    top:193px;
+    width:74px;
+    height:23px;
+}
+
+#u71_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:29px;
+}
+
+.u72 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73_normal {
+    background-image: url('../建议收集列表_files/u17_normal.png');
+}
+
+.u73_container {
+    position:absolute;
+    left:132px;
+    top:193px;
+    width:369px;
+    height:23px;
+}
+
+#u73_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:375px;
+    height:29px;
+}
+
+.u74 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:365px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75_normal {
+    background-image: url('../建议收集列表_files/u19_normal.png');
+}
+
+.u75_container {
+    position:absolute;
+    left:501px;
+    top:193px;
+    width:100px;
+    height:23px;
+}
+
+#u75_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u76 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u77_normal {
+    background-image: url('../建议收集列表_files/u19_normal.png');
+}
+
+.u77_container {
+    position:absolute;
+    left:601px;
+    top:193px;
+    width:100px;
+    height:23px;
+}
+
+#u77_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u78 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79_normal {
+    background-image: url('../建议收集列表_files/u19_normal.png');
+}
+
+.u79_container {
+    position:absolute;
+    left:701px;
+    top:193px;
+    width:100px;
+    height:23px;
+}
+
+#u79_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u80 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81_normal {
+    background-image: url('../建议收集列表_files/u25_normal.png');
+}
+
+.u81_container {
+    position:absolute;
+    left:801px;
+    top:193px;
+    width:167px;
+    height:23px;
+}
+
+#u81_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:173px;
+    height:29px;
+}
+
+.u82 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:163px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83_normal {
+    background-image: url('../建议收集列表_files/u13_normal.png');
+}
+
+.u83_container {
+    position:absolute;
+    left:0px;
+    top:216px;
+    width:58px;
+    height:23px;
+}
+
+#u83_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:64px;
+    height:29px;
+}
+
+.u84 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:54px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85_normal {
+    background-image: url('../建议收集列表_files/u15_normal.png');
+}
+
+.u85_container {
+    position:absolute;
+    left:58px;
+    top:216px;
+    width:74px;
+    height:23px;
+}
+
+#u85_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:29px;
+}
+
+.u86 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u87_normal {
+    background-image: url('../建议收集列表_files/u17_normal.png');
+}
+
+.u87_container {
+    position:absolute;
+    left:132px;
+    top:216px;
+    width:369px;
+    height:23px;
+}
+
+#u87_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:375px;
+    height:29px;
+}
+
+.u88 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:365px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89_normal {
+    background-image: url('../建议收集列表_files/u19_normal.png');
+}
+
+.u89_container {
+    position:absolute;
+    left:501px;
+    top:216px;
+    width:100px;
+    height:23px;
+}
+
+#u89_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u90 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91_normal {
+    background-image: url('../建议收集列表_files/u19_normal.png');
+}
+
+.u91_container {
+    position:absolute;
+    left:601px;
+    top:216px;
+    width:100px;
+    height:23px;
+}
+
+#u91_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u92 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u93_normal {
+    background-image: url('../建议收集列表_files/u19_normal.png');
+}
+
+.u93_container {
+    position:absolute;
+    left:701px;
+    top:216px;
+    width:100px;
+    height:23px;
+}
+
+#u93_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u94 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95_normal {
+    background-image: url('../建议收集列表_files/u25_normal.png');
+}
+
+.u95_container {
+    position:absolute;
+    left:801px;
+    top:216px;
+    width:167px;
+    height:23px;
+}
+
+#u95_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:173px;
+    height:29px;
+}
+
+.u96 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:163px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97_normal {
+    background-image: url('../建议收集列表_files/u13_normal.png');
+}
+
+.u97_container {
+    position:absolute;
+    left:0px;
+    top:239px;
+    width:58px;
+    height:23px;
+}
+
+#u97_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:64px;
+    height:29px;
+}
+
+.u98 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:54px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u99_normal {
+    background-image: url('../建议收集列表_files/u15_normal.png');
+}
+
+.u99_container {
+    position:absolute;
+    left:58px;
+    top:239px;
+    width:74px;
+    height:23px;
+}
+
+#u99_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:29px;
+}
+
+.u100 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u101_normal {
+    background-image: url('../建议收集列表_files/u17_normal.png');
+}
+
+.u101_container {
+    position:absolute;
+    left:132px;
+    top:239px;
+    width:369px;
+    height:23px;
+}
+
+#u101_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:375px;
+    height:29px;
+}
+
+.u102 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:365px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u103_normal {
+    background-image: url('../建议收集列表_files/u19_normal.png');
+}
+
+.u103_container {
+    position:absolute;
+    left:501px;
+    top:239px;
+    width:100px;
+    height:23px;
+}
+
+#u103_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u104 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u105_normal {
+    background-image: url('../建议收集列表_files/u19_normal.png');
+}
+
+.u105_container {
+    position:absolute;
+    left:601px;
+    top:239px;
+    width:100px;
+    height:23px;
+}
+
+#u105_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u106 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u107_normal {
+    background-image: url('../建议收集列表_files/u19_normal.png');
+}
+
+.u107_container {
+    position:absolute;
+    left:701px;
+    top:239px;
+    width:100px;
+    height:23px;
+}
+
+#u107_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u108 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u109_normal {
+    background-image: url('../建议收集列表_files/u25_normal.png');
+}
+
+.u109_container {
+    position:absolute;
+    left:801px;
+    top:239px;
+    width:167px;
+    height:23px;
+}
+
+#u109_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:173px;
+    height:29px;
+}
+
+.u110 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:163px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u111_normal {
+    background-image: url('../建议收集列表_files/u111_normal.png');
+}
+
+.u111_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1820px;
+    height:83px;
+}
+
+#u111_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1820px;
+    height:83px;
+}
+
+.u112 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:1816px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u113_normal {
+    background-image: url('../建议收集列表_files/u113_normal.png');
+}
+
+.u113_container {
+    position:absolute;
+    left:0px;
+    top:44px;
+    width:160px;
+    height:860px;
+}
+
+#u113_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:160px;
+    height:860px;
+}
+
+.u114 {
+    position:absolute;
+    left:2px;
+    top:422px;
+    width:156px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u115_normal {
+    background-image: url('../建议收集列表_files/u115_normal.png');
+}
+
+.u115_container {
+    position:absolute;
+    left:1px;
+    top:314px;
+    width:156px;
+    height:26px;
+}
+
+#u115_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:162px;
+    height:32px;
+}
+
+.u116 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:152px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u117 {
+    position:absolute;
+    left:24px;
+    top:320px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118_normal {
+    background-image: url('../建议收集列表_files/u118_normal.png');
+}
+
+.u118_container {
+    position:absolute;
+    left:867px;
+    top:161px;
+    width:60px;
+    height:25px;
+}
+
+#u118_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:31px;
+}
+
+.u119 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:56px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u120_normal {
+    background-image: url('../建议收集列表_files/u120_normal.png');
+}
+
+.u120_container {
+    position:absolute;
+    left:0px;
+    top:342px;
+    width:158px;
+    height:27px;
+}
+
+#u120_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:164px;
+    height:33px;
+}
+
+.u121 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:154px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122_normal {
+    background-image: url('../建议收集列表_files/u122_normal.png');
+}
+
+.u122_container {
+    position:absolute;
+    left:0px;
+    top:115px;
+    width:157px;
+    height:27px;
+}
+
+#u122_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:163px;
+    height:33px;
+}
+
+.u123 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:153px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124 {
+    position:absolute;
+    left:30px;
+    top:121px;
+    width:200px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u125_normal {
+    background-image: url('../建议收集列表_files/u125_normal.png');
+}
+
+.u125_container {
+    position:absolute;
+    left:193px;
+    top:112px;
+    width:380px;
+    height:28px;
+}
+
+#u125_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:386px;
+    height:34px;
+}
+
+.u126 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:376px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u127 {
+    position:absolute;
+    left:181px;
+    top:118px;
+    width:200px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128_normal {
+    background-image: url('../建议收集列表_files/u128_normal.png');
+}
+
+.u128_container {
+    position:absolute;
+    left:331px;
+    top:86px;
+    width:9px;
+    height:9px;
+}
+
+#u128_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:15px;
+    height:15px;
+}
+
+.u129 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:5px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130 {
+    position:absolute;
+    left:332px;
+    top:83px;
+    width:47px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u131 {
+    position:absolute;
+    left:496px;
+    top:161px;
+    width:129px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#CCCCCC;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u132_normal {
+    background-image: url('../建议收集列表_files/u118_normal.png');
+}
+
+.u132_container {
+    position:absolute;
+    left:791px;
+    top:161px;
+    width:60px;
+    height:25px;
+}
+
+#u132_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:31px;
+}
+
+.u133 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:56px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u134 {
+    position:absolute;
+    left:632px;
+    top:164px;
+    width:26px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u135 {
+    position:absolute;
+    left:652px;
+    top:161px;
+    width:129px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#CCCCCC;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u136 {
+    position:absolute;
+    left:114px;
+    top:164px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u137 {
+    position:absolute;
+    left:274px;
+    top:162px;
+    width:129px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u138 {
+    position:absolute;
+    left:343px;
+    top:164px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u139_normal {
+    background-image: url('../建议收集列表_files/u139_normal.png');
+}
+
+.u139_container {
+    position:absolute;
+    left:193px;
+    top:516px;
+    width:1220px;
+    height:39px;
+}
+
+#u139_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1220px;
+    height:39px;
+}
+
+.u140 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:1216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u141_normal {
+    background-image: url('../建议收集列表_files/u141_normal.png');
+}
+
+.u141_container {
+    position:absolute;
+    left:1011px;
+    top:516px;
+    width:162px;
+    height:39px;
+}
+
+#u141_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:162px;
+    height:39px;
+}
+
+.u142 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:158px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u143_normal {
+    background-image: url('../建议收集列表_files/u143_normal.png');
+}
+
+.u143_container {
+    position:absolute;
+    left:6px;
+    top:322px;
+    width:15px;
+    height:14px;
+}
+
+#u143_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:15px;
+    height:14px;
+}
+
+.u144 {
+    position:absolute;
+    left:2px;
+    top:-1px;
+    width:11px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

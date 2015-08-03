@@ -1,4 +1,4 @@
-﻿/*
+/*
 Navicat MySQL Data Transfer
 
 Source Server         : shopassist
@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50166
 File Encoding         : 65001
 
-Date: 2015-04-21 17:23:45
+Date: 2015-06-26 14:15:49
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -29,6 +29,7 @@ CREATE TABLE `report_shopassist_shoppagestat` (
   `pv` int(15) DEFAULT NULL COMMENT '浏览量',
   `jumps` int(15) DEFAULT NULL COMMENT '总跳出次数',
   `remain_times` int(50) DEFAULT NULL COMMENT '总停留时间',
+  `visits` int(15) DEFAULT NULL COMMENT '访问次数',
   `id` int(15) NOT NULL AUTO_INCREMENT COMMENT '自增，无意义，防止堆表',
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM DEFAULT CHARSET=utf8 COMMENT='按店铺页面统计';
+) ENGINE=MyISAM AUTO_INCREMENT=232999 DEFAULT CHARSET=utf8 COMMENT='按店铺页面统计';
