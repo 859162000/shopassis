@@ -14,6 +14,7 @@ CREATE TABLE shopdata_base(
   rproductid string, 
   new_time string, 
   remains bigint,
+  is_new_user int,
   log_hour string)
 partitioned by (type string);
 alter table shopdata_base add partition (type = 'in');
@@ -35,6 +36,7 @@ CREATE TABLE shopdata_base_shopInfo_2(
  rproductid string, 
  new_time string, 
  remains bigint,
+ is_new_user int,
  log_hour string)
 partitioned by (type string);
 alter table shopdata_base_shopInfo_2 add partition (type = 'inhalf');
@@ -42,6 +44,7 @@ alter table shopdata_base_shopInfo_2 add partition (type = 'inall');
 alter table shopdata_base_shopInfo_2 add partition (type = 'outhalf');
 alter table shopdata_base_shopInfo_2 add partition (type = 'outall');
 
+drop table shopdata_base_shopinfojump_2;
 CREATE TABLE shopdata_base_shopinfojump_2(
   i int, 
   uc string, 
@@ -54,8 +57,9 @@ CREATE TABLE shopdata_base_shopinfojump_2(
   productid string, 
   skuid string, 
   new_time string, 
-  remains bigint, 
-  log_hour string, 
+  remains bigint,
+  is_new_user int,
+  log_hour string,  
   is_jump bigint);
 
 drop table shopdata_productsku_result;
@@ -73,6 +77,21 @@ create table shopdata_productsku_result(
 partitioned by (type string);
 alter table shopdata_productsku_result add partition (type = 'product');
 alter table shopdata_productsku_result add partition (type = 'sku');
+
+drop table shopdata_shopstat_result;
+create table shopdata_shopstat_result(
+ id string,
+ shopId string,
+ pv bigint,
+ uv bigint,
+ visits bigint,
+ orders bigint,
+ remains bigint,
+ new_users bigint,
+ jumps bigint,
+ visit_date string,
+ i string,
+ uploadtime string);
 
 drop table shopdata_shoppagestat_result;
 create table shopdata_shoppagestat_result(
@@ -239,3 +258,189 @@ CREATE  TABLE shopdata_shopout3(
 partitioned by (type string);
 alter table shopdata_shopout3 add partition (type = 'in');
 alter table shopdata_shopout3 add partition (type = 'out');
+
+drop table shopdata_base_session_first;
+create table shopdata_base_session_first(
+ i int,
+ shopId string,
+ uc string,
+ s string,
+ ptId int,
+ ru string,
+ stId string,
+ rownum int);
+ 
+drop table shopdata_session_cartorder_product;
+create table shopdata_session_cartorder_product(
+ session_id string,
+ site_id int,
+ custom_action_id int,
+ productId string);
+ 
+drop table shopdata_session_cartorder_shop;
+create table shopdata_session_cartorder_shop(
+ session_id string,
+ site_id int,
+ custom_action_id int,
+ shopId string);
+ 
+drop table shopdata_session_cartorder_pv;
+create table shopdata_session_cartorder_pv(
+ session_id string,
+ site_id int,
+ shopId string,
+ cart_pv bigint,
+ order_pv bigint);
+ 
+drop table shopdata_session_withoutpay;
+create table shopdata_session_withoutpay(
+ i int,
+ shopId string,
+ s string,
+ orgin_time string,
+ pv bigint,
+ jumps bigint,
+ remains bigint,
+ productinfo_pv bigint,
+ cart_pv bigint,
+ order_pv bigint);
+
+drop table report_productshop;
+CREATE TABLE report_productshop(
+  product_id string, 
+  shop_no string)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY '\t';
+
+load data local inpath '/home/data01/data/pagetypeid.txt' into table pagetype;
+
+load data local inpath '/home/hadoop/shopassistant/shopid.txt' into table report_productshop;
+
+
+drop table shop_real_time;
+CREATE  TABLE shop_real_time
+(
+id string, 
+SHOP_ID string,
+PAGEVIEWS int,
+USERVIEWS int,
+FDATE_DAY string,
+FDATE_HOUR string,
+DATA_SOURCE int,
+UPLOADTIME string
+)
+ROW FORMAT DELIMITED
+  FIELDS TERMINATED BY '\t'
+STORED AS INPUTFORMAT
+  'org.apache.hadoop.mapred.TextInputFormat'
+OUTPUTFORMAT
+  'org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat' ;  
+
+drop table shop_offline_visit_statistics;
+CREATE  TABLE shop_offline_visit_statistics
+( 
+ id string,
+ SHOP_ID string,                 
+ VISIT_ID   string,              
+ COOKIE_ID    string,            
+ INTO_SHOP_TIME    string,       
+ INTO_SHOP_TYPE    string,       
+ INTO_SHOP_PAGE    string,       
+ LANDING_PAGE      string,       
+ SINGLE_VISIT_PAGE_NUMBER int,
+ SINGLE_STAY_TIME         int,
+ IS_NEW_USERVIEWS         int,
+ USER_ID                  string,
+ USER_POST_PROVINCE       string,
+ USER_POST_CITY           string,
+ FDATE                    string,
+ DATA_SOURCE              int,
+ UPLOADTIME               string
+)
+ROW FORMAT DELIMITED
+  FIELDS TERMINATED BY '\t'
+STORED AS INPUTFORMAT
+  'org.apache.hadoop.mapred.TextInputFormat'
+OUTPUTFORMAT
+  'org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat' ;    
+  
+   create table shop_stat_res_tmp (SHOP_ID string,VISIT_ID string,COOKIE_ID string,SINGLE_VISIT_PAGE_NUMBER int ,SINGLE_STAY_TIME int) row format delimited fields terminated by '\t'  stored as textfile;
+  create table shop_res_tmp (SHOP_ID string,VISIT_ID string,COOKIE_ID string,INTO_SHOP_TIME string,INTO_SHOP_TYPE string,INTO_SHOP_PAGE string,LANDING_PAGE string,IS_NEW_USERVIEWS int ,user_id string,USER_POST_PROVINCE string,
+  USER_POST_CITY string,fdate string,data_source string,uploadtime string,rownumber int) row format delimited fields terminated by '\t'  stored as textfile;
+   create table shop_res_tmp_2 (SHOP_ID string,VISIT_ID string,COOKIE_ID string,INTO_SHOP_TIME string,INTO_SHOP_TYPE string,INTO_SHOP_PAGE string,LANDING_PAGE string,IS_NEW_USERVIEWS int ,user_id string,USER_POST_PROVINCE string,
+  USER_POST_CITY string,fdate string,data_source string,uploadtime string,rownumber int) row format delimited fields terminated by '\t'  stored as textfile;
+   create table shop_res_tmp_3 (SHOP_ID string,VISIT_ID string,COOKIE_ID string,INTO_SHOP_TIME string,INTO_SHOP_TYPE string,INTO_SHOP_PAGE string,LANDING_PAGE string,IS_NEW_USERVIEWS int ,user_id string,USER_POST_PROVINCE string,
+  USER_POST_CITY string,fdate string,data_source string,uploadtime string,rownumber int) row format delimited fields terminated by '\t'  stored as textfile;
+  
+  
+  
+  
+  CREATE  TABLE shopdata_base_real_time(
+  uc string,
+  i int,
+  s string,
+  ptid int,
+  ru string,
+  stid string,
+  rustid string,
+  shopid string,
+  productid string,
+  skuid string,
+  rshopid string,
+  rproductid string,
+  new_time string,
+  remains bigint,
+  log_hour string,
+  u string,
+  city_id string,
+  province_id string,
+  is_new_user int,
+  log_day string)
+PARTITIONED BY (
+  type string)
+row format delimited fields terminated by '\t';
+
+CREATE  TABLE shopdata_base_shopInfo_2_real_time(
+  uc string, 
+  i int, 
+  s string, 
+  ptid int, 
+  ru string, 
+  stid string, 
+  rustid string, 
+  shopid string, 
+  productid string, 
+  skuid string, 
+  rshopid string, 
+  rproductid string, 
+  new_time string, 
+  remains bigint, 
+  log_hour string, 
+  u string, 
+  city_id string, 
+  province_id string, 
+  is_new_user int, 
+  log_day string)
+PARTITIONED BY ( 
+  type string)
+  row format delimited fields terminated by '\t';
+
+create table pagetype
+(
+ Id Int,
+ Name string
+)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY '\t';
+
+drop table shop_realtime;
+CREATE  TABLE shop_realtime
+(
+id string, 
+SHOP_ID string,
+PAGEVIEWS int,
+USERVIEWS int,
+FDATE_DAY string,
+FDATE_HOUR string,
+DATA_SOURCE int,
+UPLOADTIME string
+)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY '\t';
